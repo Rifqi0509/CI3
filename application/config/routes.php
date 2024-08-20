@@ -53,6 +53,7 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 $route['p/domain-tata-kelola-spbe.html'] = 'domain/tata_kelola';
+$route['p/domain-tata-kelola-spbe.html'] = 'domain/manajemen';
 
 
 
