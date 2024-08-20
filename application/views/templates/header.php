@@ -14,12 +14,12 @@
         <meta content='blogger' name='generator'/>
         <link href='https://spbe.banjarmasinkota.go.id/favicon.ico' rel='icon' type='image/x-icon'/>
         <link href='https://spbe.banjarmasinkota.go.id/' rel='canonical'/>
-        <link rel="alternate" type="application/atom+xml" title="SPBE Pemerintah Kota Banjarmasin - Atom" href="https://spbe.banjarmasinkota.go.id/feeds/posts/default"/>
-        <link rel="alternate" type="application/rss+xml" title="SPBE Pemerintah Kota Banjarmasin - RSS" href="https://spbe.banjarmasinkota.go.id/feeds/posts/default?alt=rss"/>
-        <link rel="service.post" type="application/atom+xml" title="SPBE Pemerintah Kota Banjarmasin - Atom" href="https://www.blogger.com/feeds/5382271842762528352/posts/default"/>
+        <link rel="alternate" type="application/atom+xml" title="SPBE Pemerintah Kabupaten Malang - Atom" href="https://spbe.banjarmasinkota.go.id/feeds/posts/default"/>
+        <link rel="alternate" type="application/rss+xml" title="SPBE Pemerintah Kabupaten Malang - RSS" href="https://spbe.banjarmasinkota.go.id/feeds/posts/default?alt=rss"/>
+        <link rel="service.post" type="application/atom+xml" title="SPBE Pemerintah Kabupaten Malang - Atom" href="https://www.blogger.com/feeds/5382271842762528352/posts/default"/>
         <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
         <meta content='https://spbe.banjarmasinkota.go.id/' property='og:url'/>
-        <meta content='SPBE Pemerintah Kota Banjarmasin' property='og:title'/>
+        <meta content='SPBE Pemerintah Kabupaten Malang' property='og:title'/>
         <meta content='' property='og:description'/>
         <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w1200-h630-p-k-no-nu/1.png' property='og:image'/>
         <meta content='https://blogger.googleusercontent.com/img/a/AVvXsEg3aCP4hilzkySyVvmBshcceOYqzs-PQYOpHQNIUWoJO-ul2YLzajrU7u-q5iSneTMiT2N2S1jV4RPpnI4LzBtQ6bIEUGqBaFNAOfQwCalr5HgNoxFq5G3UCtlIjCgswlNXRycy2jMLlVu_BO4E29ylJkz5REN6QU20Ud7KkaPWvUeOk2wM1Lda4weM43XY=w1200-h630-p-k-no-nu' property='og:image'/>
@@ -31,21 +31,14 @@
         <!-- Title -->
         <title>SPBE Pemerintah Kabupaten Malang</title>
         <!-- Meta keywords -->
-        <meta content='SPBE Pemerintah Kota Banjarmasin' name='keywords'/>
+        <meta content='SPBE Pemerintah Kabupaten Malang' name='keywords'/>
         <!-- Facebook Open Graph Meta Tag -->
-        <meta content='SPBE Pemerintah Kota Banjarmasin' property='og:title'/>
+        <meta content='SPBE Pemerintah Kabupaten Malang' property='og:title'/>
         <meta content='website' property='og:type'/>
         
-        <meta content='SPBE Pemerintah Kota Banjarmasin' property='og:site_name'/>
+        <meta content='SPBE Pemerintah Kabupaten Malang' property='og:site_name'/>
         <link rel="stylesheet" href="<?php echo base_url('assets/css/style.css'); ?>">
-        <script src='https://raw.githack.com/ililio/i/main/i.js' type='text/javascript'></script>
-        <script type="text/javascript" src="<?php echo base_url('assets/js/jquery.js'); ?>"></script>
-        <script type="text/javascript" src="<?php echo base_url('assets/js/jquery.2.1.3.js'); ?>"></script>
-        <script type="text/javascript" src="<?php echo base_url('assets/js/style4.js'); ?>"></script>
-        <script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/543519525-widgets.js"></script>
-        <script type="text/javascript" src="<?php echo base_url('assets/js/style3.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo base_url('assets/js/style2.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo base_url('assets/js/style.js'); ?>"></script>
+        <script src="<?php echo base_url('assets/js/jquery.js'); ?>"></script>
         <meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
         <meta name='google-adsense-platform-domain' content='blogspot.com'/>
     </head>
@@ -61,7 +54,7 @@
                                     <ul class='navi'>
                                         <li>
                                             <i class='colorange fas fa-map-marker-alt'></i>
-                                            Banjarmasin 70111, Kalimantan Selatan, ID
+                                            Malang 70111, Jawa Timur, ID
                                         </li>
                                         <li>
                                             <i class='colorange far fa-envelope-open'></i>
@@ -76,7 +69,7 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li>
-                                            <a href='https://banjarmasinkota.go.id' rel='nofollow noreferrer' title='Pemerintah Kota Banjarmasin'>Pemerintah Kota Banjarmasin</a>
+                                            <a href='https://malangkab.go.id' rel='nofollow noreferrer' title='Pemerintah Kota Banjarmasin'>Pemerintah Kota Banjarmasin</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -158,7 +151,7 @@
                                                         <a href='/p/domain-kebijakan-spbe.html' role='menuitem'>_Kebijakan SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/domain-tata-kelola-spbe.html' role='menuitem'>_Tata Kelola SPBE</a>
+                                                    <a href="/spbemalang/domain/tata_kelola" role="menuitem">_Tata Kelola SPBE</a>
                                                     </li>
                                                     <li>
                                                         <a href='/p/domain-manajemen-spbe.html' role='menuitem'>_Manajemen SPBE</a>
