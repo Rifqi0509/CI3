@@ -159,10 +159,12 @@
                     <script type="text/javascript" src="<?php echo base_url('assets/js/jquery.2.1.3.js'); ?>"></script>
                     <script type="text/javascript" src="<?php echo base_url('assets/js/style4.js'); ?>"></script>
                     <script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/543519525-widgets.js"></script>
-        <script type="text/javascript" src="<?php echo base_url('assets/js/style3.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo base_url('assets/js/style2.js'); ?>"></script>
-		<script type="text/javascript" src="<?php echo base_url('assets/js/style.js'); ?>"></script>
+                    <script type="text/javascript" src="<?php echo base_url('assets/js/style3.js'); ?>"></script>
+                    <script type="text/javascript" src="<?php echo base_url('assets/js/style2.js'); ?>"></script>
+                    <script type="text/javascript" src="<?php echo base_url('assets/js/style.js'); ?>"></script>
                 </div>
             </div>
+            
         </footer>
+        
         </html> 
