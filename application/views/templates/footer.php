@@ -8,7 +8,7 @@
                                     <div class='map-wrapper-left'>
                                         <div class='mplogo'>
                                             <a href='/'>
-                                                <img alt='' src='https://blogger.googleusercontent.com/img/a/AVvXsEhE6nm5Roxn1IL5YK36l5OYA9uDoCOVIAHuAtOVOQoyspSuwDJyncbkQsm9LBYnLv45ALdP9JFE4OlUTsDsHxZcXqNAN87rZjYnLGY0H_Xk5UJ6QbEr_yuOG6FQb9en0-9Vpu5l1cOiBnsZGZsj0KnJNADzdZCHDiGAzLb3tEwoaGqGQMZoTVovBLK4=s256' title=''/>
+                                                <img alt='' src='<?php echo base_url("assets/img/logo.png"); ?>' style="max-width: 200px; height: auto;" />
                                             </a>
                                         </div>
                                     </div>
@@ -18,14 +18,14 @@
                                                 <i class='far fa-map-marker-alt'></i>
                                                 <div class='icon-box__text'>
                                                     <span class='icon-box__title'>Alamat</span>
-                                                    <span class='icon-box__subtitle'>Jalan RE Martadinata No.1, Banjarmasin, ID</span>
+                                                    <span class='icon-box__subtitle'>Jl. Agus Salim, Kiduldalem, Kec. Klojen, Kota Malang, ID</span>
                                                 </div>
                                             </div>
                                             <div class='icon-box'>
                                                 <i class='fal fa-envelope'></i>
                                                 <div class='icon-box__text'>
                                                     <span class='icon-box__title'>Surel</span>
-                                                    <span class='icon-box__subtitle'>diskominfotik@mail.banjarmasinkota.go.id</span>
+                                                    <span class='icon-box__subtitle'>diskominfo@malangkab.go.id</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -46,22 +46,22 @@
 
                                     <ul class="iconfit">
                                         <li>
-                                            <a href="https://www.facebook.com/spbe.banjarmasin" target="_blank" title="facebook">
+                                            <a href="https://www.facebook.com/spbe.malang" target="_blank" title="facebook">
                                                 <i class="fab fa-facebook-f"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://twitter.com/spbe.banjarmasin" target="_blank" title="twitter">
+                                            <a href="https://twitter.com/spbe.malang" target="_blank" title="twitter">
                                                 <i class="fab fa-twitter"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://instagram.com/spbe.banjarmasin" target="_blank" title="instagram">
+                                            <a href="https://instagram.com/spbe.malang" target="_blank" title="instagram">
                                                 <i class="fab fa-instagram"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://youtube.com/spbe.banjarmasin" target="_blank" title="youtube">
+                                            <a href="https://youtube.com/spbe.malang" target="_blank" title="youtube">
                                                 <i class="fab fa-youtube"></i>
                                             </a>
                                         </li>
@@ -78,19 +78,19 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li>
-                                            <a href="https://spbe.banjarmasinkota.go.id/p/domain-kebijakan-spbe.html">Kebijakan SPBE
+                                            <a href="/spbemalang/domain/kebijakanspbe">Kebijakan SPBE
 </a>
                                         </li>
                                         <li>
-                                            <a href="#">Tata Kelola SPBE
+                                            <a href="/spbemalang/domain/tata_kelola">Tata Kelola SPBE
 </a>
                                         </li>
                                         <li>
-                                            <a href="#">Manajemen SPBE
+                                            <a href="/spbemalang/domain/manajemen_spbe">Manajemen SPBE
 </a>
                                         </li>
                                         <li>
-                                            <a href="#">Layanan SPBE
+                                            <a href="/spbemalang/domain/layanan_spbe">Layanan SPBE
 </a>
                                         </li>
                                     </ul>
@@ -106,13 +106,13 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li>
-                                            <a href="https://spbe.banjarmasinkota.go.id/p/regulasi-spbe.html">Regulasi</a>
+                                            <a href="/spbemalang/spbe/regulasi_spbe">Regulasi</a>
                                         </li>
                                         <li>
-                                            <a href="https://spbe.banjarmasinkota.go.id/p/sop-monitoring-dan-evaluasi-spbe.html">SOP</a>
+                                            <a href="/spbemalang/spbe/sop_spbe">SOP</a>
                                         </li>
                                         <li>
-                                            <a href="https://spbe.banjarmasinkota.go.id/p/agenda.html">Agenda</a>
+                                            <a href="/spbemalang/spbe/agenda_spbe">Agenda</a>
                                         </li>
                                         <li>
                                             <a href="#">FAQ</a>
@@ -151,7 +151,7 @@
                         &#169;Copyright 2021~<script>
                             document.write(new Date().getFullYear());
                         </script>
-                        - <a href='https://spbe.banjarmasinkota.go.id/' title='SPBE Pemerintah Kota Banjarmasin'>SPBE Pemerintah Kota Banjarmasin</a>
+                        - <a href='https://spbe.malangkab.go.id/' title='SPBE Pemerintah Kabupaten Malang'>SPBE Pemerintah Kabupaten Malang</a>
                         - All Rights Reserved.
     
                     </div>

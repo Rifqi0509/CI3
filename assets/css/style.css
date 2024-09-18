@@ -58,7 +58,7 @@ a {
 .halaman-indeks-tag a {
     position: absolute;
     top: 20px;
-    background: #f40b0b;
+    background: #900404;
     border-radius: 5px 0 5px 0;
     padding: 2px 10px;
     font-size: .8rem;
@@ -176,7 +176,7 @@ body {
 }
 
 #sticky-wrap.stickyhead #main-menu ul>li>ul>li a:hover {
-    color: #fff
+    color: #900404
 }
 
 .header-wrapper {
@@ -213,7 +213,7 @@ body {
 }
 
 #header h1 a,#header h1.title a:hover {
-    color: #f40b0b;
+    color: #900404;
     text-decoration: none
 }
 
@@ -228,7 +228,7 @@ body {
     height: 50px;
     overflow: hidden;
     margin: 0;
-    background-color: #334455
+    background-color: #900404
 }
 
 .top-bar-nav ul li>a {
@@ -321,7 +321,7 @@ body {
     z-index: 99;
     float: right;
     font-weight: 300;
-    background-color: #f40b0b;
+    background-color: #900404;
     font-size: 15px
 }
 
@@ -373,23 +373,23 @@ div#searchcontainer form input[type=text] {
 }
 
 div#searchcontainer form input::-webkit-input-placeholder {
-    color: #f40b0b
+    color: #900404
 }
 
 div#searchcontainer form input::-moz-placeholder {
-    color: #f40b0b
+    color: #900404
 }
 
 div#searchcontainer form input::placeholder {
-    color: #f40b0b
+    color: #900404
 }
 
 div#searchcontainer form input:-ms-input-placeholder {
-    color: #f40b0b
+    color: #900404
 }
 
 div#searchcontainer form input::-ms-input-placeholder {
-    color: #f40b0b
+    color: #900404
 }
 
 div#searchcontainer.opensearch {
@@ -449,7 +449,7 @@ div#searchcontainer.opensearch form {
 }
 
 #main-menu ul>li:hover>a,.top-bar-nav ul li:hover>a,.recent-boxes h2.recent-title:hover,.top-bar-social ul>li:hover>a {
-    color: #f40b0b
+    color: #900404
 }
 
 #main-menu ul>li>ul {
@@ -492,8 +492,8 @@ div#searchcontainer.opensearch form {
 }
 
 #main-menu ul>li>ul>li a:hover {
-    background-color: #f40b0b;
-    color: #fff
+    background-color: #fff;
+    color: #900404
 }
 
 #main-menu ul>li>ul>li:last-child a {
@@ -716,11 +716,11 @@ div#searchcontainer.opensearch form {
 }
 
 .mobile-menu ul li a:hover,.mobile-menu ul>li>.submenu-toggle:hover {
-    color: #f40b0b
+    color: #fff
 }
 
 .chiller-theme {
-    background: none
+    background:none
 }
 
 .is-homepage .main-header {
@@ -800,7 +800,7 @@ div#searchcontainer.opensearch form {
 }
 
 .colorange {
-    color: #f40b0b!important
+    color: #900404!important
 }
 
 .box00 {
@@ -867,7 +867,7 @@ p.bm01 {
     line-height: initial;
     position: relative;
     float: left;
-    color: #f40b0b;
+    color: #900404;
     margin-right: 15px
 }
 
@@ -898,12 +898,12 @@ p.bm01 {
     padding: 2rem 1rem .4rem 1rem;
     -webkit-border-radius: 44% 56% 47% 53%/30% 47% 53% 70%;
     border-radius: 44% 56% 47% 53%/30% 47% 53% 70%;
-    background-color: #f40b0b
+    background-color: #900404
 }
 
 .about-image span:before {
     content: "";
-    border: 2px dashed #f40b0b;
+    border: 2px dashed #900404;
     position: absolute;
     left: -1.25rem;
     right: -1.25rem;
@@ -912,7 +912,7 @@ p.bm01 {
     z-index: -1;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    border-color: #f40b0b
+    border-color: #900404
 }
 
 .about-image {
@@ -935,7 +935,7 @@ p.mb {
 }
 
 .bgorange {
-    background-color: #f40b0b
+    background-color: #900404
 }
 
 .bgrey {
@@ -1112,15 +1112,15 @@ h5.counter-number sup {
 }
 
 #slider01 {
-    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOxoUoD6RirrLzl1TLAjqA2J_nz_VrLCpP3pSLPrFO3m03O0rmUyM4lTqeyHvz6-mvoH8ar7yHMlZaQUWXezEqOzqSfDJKItL0biE5d3T9PAGg33Uur-U59Q4a_M4wkRrfHu2awFfkZWHB37i3MvWLhZv9APp_osLkP42GkUvAYipgvGQt1Tk4r8w7ODuq/s16000/BP.png)
+    background-image: url(https://media.licdn.com/dms/image/v2/C561BAQHgCAKIBYhyyg/company-background_10000/company-background_10000/0/1625771664781/pemerintah_kabupaten_malang_cover?e=2147483647&v=beta&t=w3KIZmDtnklUjk9JvdUDusukBstiSTVu_JvtQjNfQyk);
 }
 
 #slider02 {
-    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbP61yHQrHF0dYcXQv-CHBu45nneCBZedvhNyWS8nlTFxHtZBlVEkHTyJB4GwY-IUYfBEydTXPz2OPNqOIkwtWTCe7N22IPsEyUEQYurgSJjWxg84nbhfPXtsxN2b7qWYuM9SJ2AGbOLQDC2autktxS0szVAg6mLCI6lJKnQvxca48BT-jfME-H7Hr/s0/BJM002.jpg)
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/96/Tugu_Malang.jpg);
 }
 
 #slider03 {
-    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj61fXvhQgSe3IJLnMsKtSrt0ZMv-TJqDlDaq0tDhgufIKdqFNLhrxCM3HNPt9_qZDwdDU4gnB2mcjDrFcS35ZAXQpxgMO-0x82A9jmthi1wxSfKG8Ne9T9QjiMKK3pkEMbFpDsi7FdBt7oJErqeZ8Cs15mMtGnZij-coqDdb-rOMbJUorI--ZbX4ucUw/s16000/bg01.jpg)
+    background-image: url(https://kanal24.co.id/wp-content/uploads/2024/07/ALUNALUNTUGU1.jpg);
 }
 
 .box003 {
@@ -1147,7 +1147,7 @@ span.orange {
 }
 
 .orange {
-    color: #f40b0b
+    color: #900404
 }
 
 span.orange:before,span.orange:after {
@@ -1155,7 +1155,7 @@ span.orange:before,span.orange:after {
     content: "";
     width: 25px;
     height: 2px;
-    border: 1px solid #f40b0b;
+    border: 1px solid #900404;
     border-radius: 1px;
     top: 50%;
     transform: translateY(-50%);
@@ -1217,7 +1217,7 @@ span.orange:before {
 .box-inner i {
     font-size: 4.375rem;
     display: inline-block;
-    color: #f40b0b;
+    color: #900404;
     line-height: 4.375rem
 }
 
@@ -1233,11 +1233,11 @@ span.orange:before {
 }
 
 .serv-box span.m0 i {
-    color: #f40b0b
+    color: #900404
 }
 
 .content-post .serv-box:hover,.content-active {
-    background-color: #f40b0b
+    background-color: #900404
 }
 
 .content-post .serv-box:hover,.content-post .serv-box:hover p.m0,.content-post .serv-box:hover .box-inner h3.m0 a,.content-post .serv-box:hover .box-inner i,.content-active,.content-active .box-inner i,.content-active .box-inner h3.m0 a,.content-active span.m0 i {
@@ -1285,7 +1285,7 @@ span.orange:before {
 
 .solution h2.mb i::before,.solution h2.mb i::after {
     content: "";
-    background-color: #f40b0b;
+    background-color: #900404;
     position: absolute;
     left: 0;
     right: 0;
@@ -1326,7 +1326,7 @@ span.orange:before {
 }
 
 .solutions-list li.active i {
-    background-color: #f40b0b!important
+    background-color: #900404!important
 }
 
 .solutions-list {
@@ -1341,12 +1341,12 @@ span.orange:before {
 }
 
 .solutions-list li.active i {
-    background-color: #f40b0b!important
+    background-color: #900404!important
 }
 
 .solutions-list li.active i {
     color: #fff;
-    background: #f40b0b
+    background: #900404
 }
 
 .solutions-list li i {
@@ -1364,7 +1364,7 @@ span.orange:before {
 }
 
 .solutions-list li:hover i {
-    background-color: #f40b0b;
+    background-color: #900404;
     color: #fff
 }
 
@@ -1415,7 +1415,7 @@ span.orange:before {
 
 a.white {
     background-color: #fff;
-    color: #f40b0b;
+    color: #900404;
     background-image: none
 }
 
@@ -1488,7 +1488,7 @@ h3.titlewidget,.recent-projects h3 {
 }
 
 .thm-bg {
-    background-color: #f40b0b
+    background-color: #900404
 }
 
 .thm-btn:before {
@@ -1521,7 +1521,7 @@ h3.titlewidget,.recent-projects h3 {
 
 .wrappersub {
     padding: 1.8125rem 0;
-    background: #f40b0b;
+    background: #900404;
     overflow: hidden;
     position: relative
 }
@@ -1684,7 +1684,7 @@ ul.navi li a {
     display: block!important;
     font-size: .875rem!important;
     padding: 0 2rem!important;
-    background-color: #f40b0b;
+    background-color: #900404;
     position: relative!important;
     z-index: 1;
     overflow: hidden;
@@ -1718,7 +1718,7 @@ ul.navi li a {
 
 #need h3 {
     font-size: 45px;
-    color: #f40b0b;
+    color: #900404;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: -2px;
@@ -1736,13 +1736,13 @@ ul.navi li a {
 }
 
 .experience {
-    border-color: #f40b0b
+    border-color: #900404
 }
 
 .experience h2 {
     font-size: 80px;
     letter-spacing: -6px;
-    color: #f40b0b;
+    color: #900404;
     margin: 0;
     line-height: 1.1;
     font-weight: bold;
@@ -1786,7 +1786,7 @@ ul.navi li a {
 }
 
 .carousel-item:hover .recent-boxes h2.recent-title a {
-    color: #f40b0b
+    color: #900404
 }
 
 #breadcrumb .delimiter:after,.YouTubePopUp-Close:before,.accordion__item .accordion-header:after,.owl-next,.owl-prev,.post-share .social a:before {
@@ -2030,11 +2030,11 @@ ul.navi li a {
 
 .owl-dot.active {
     width: 5.5625rem;
-    background: #f40b0b
+    background: #900404
 }
 
 .owl-dot:hover {
-    background: #f40b0b
+    background: #900404
 }
 
 .main-carousel {
@@ -2064,7 +2064,7 @@ ul.navi li a {
 }
 
 .recent-projects .carousel-item:hover .carousel-content {
-    background-color: #f40b0b
+    background-color: #900404
 }
 
 .recent-projects .carousel-item:hover .recent-title a,.recent-projects .carousel-item:hover .carousel-tag a {
@@ -2129,7 +2129,7 @@ ul.navi li a {
 
 .recent-projects .carousel-tag a {
     display: inline-block;
-    color: #f40b0b;
+    color: #900404;
     height: 45px;
     line-height: 45px;
     padding: 0;
@@ -2140,7 +2140,7 @@ ul.navi li a {
 .recent-boxes .carousel-tag a {
     position: absolute;
     top: 20px;
-    background: #f40b0b;
+    background: #900404;
     border-radius: 5px 0 5px 0;
     padding: 2px 10px;
     font-size: .8rem;
@@ -2218,7 +2218,7 @@ a.Moovit:before {
     border-radius: 2px;
     padding: 5px 10px;
     left: 20px;
-    background: #f40b0b
+    background: #900404
 }
 
 .recent-tag a {
@@ -2235,7 +2235,7 @@ a.Moovit:before {
 }
 
 .recent-author::before,.recent-date:before {
-    color: #f40b0b
+    color: #900404
 }
 
 .recent-tag:before {
@@ -2256,7 +2256,7 @@ a.Moovit:before {
     font-family: "font Awesome 5 Pro";
     margin-right: 5px;
     font-size: 16px;
-    color: #f40b0b;
+    color: #900404;
     font-weight: 300;
     vertical-align: middle
 }
@@ -2364,7 +2364,7 @@ a.Moovit:before {
     background: #ffe7dc;
     text-align: center;
     font-size: 13px;
-    color: #f40b0b;
+    color: #900404;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%
@@ -2420,7 +2420,7 @@ a.Moovit:before {
 }
 
 .boxwrap-text h2 span {
-    color: #f40b0b
+    color: #900404
 }
 
 .boxwrap-icon {
@@ -2877,7 +2877,7 @@ a.js-modal-video {
 
 .queryMessage {
     overflow: hidden;
-    background-color: #f40b0b;
+    background-color: #900404;
     color: #fff;
     font-size: 14px;
     font-weight: 400;
@@ -2985,7 +2985,7 @@ a.js-modal-video {
 }
 
 .custom-widget li:hover .post-title a {
-    color: #f40b0b
+    color: #900404
 }
 
 .halaman-indeks-wrap {
@@ -3092,7 +3092,7 @@ a.js-modal-video {
 }
 
 #breadcrumb a:hover {
-    color: #f40b0b
+    color: #900404
 }
 
 #breadcrumb a,#breadcrumb em {
@@ -3204,7 +3204,7 @@ a.js-modal-video {
 }
 
 .post-labels a:hover,.post-labels span {
-    background-color: #f40b0b;
+    background-color: #900404;
     color: #fff
 }
 
@@ -3214,7 +3214,7 @@ a.js-modal-video {
 }
 
 .post-labels a:hover {
-    border-color: #f40b0b
+    border-color: #900404
 }
 
 .post-share .share-links li a,.post-share .social a:before {
@@ -3922,7 +3922,7 @@ h4#comment-post-message {
 #comments .comments-content .icon.blog-author:before {
     content: "\f005";
     font-family: "Font Awesome 5 Pro";
-    color: #f40b0b;
+    color: #900404;
     font-size: 11px;
     vertical-align: middle
 }
@@ -4356,7 +4356,7 @@ blockquote:after {
     right: 0;
     font-size: 14px;
     color: #222;
-    background: #f40b0b;
+    background: #900404;
     text-transform: uppercase;
     text-align: center;
     font-weight: 700;
@@ -4395,7 +4395,7 @@ blockquote:after {
 }
 
 #ArchiveList .flat li>a:hover {
-    color: #f40b0b
+    color: #900404
 }
 
 #ArchiveList .flat li>a:before {
@@ -4413,7 +4413,7 @@ blockquote:after {
     float: right;
     width: 16px;
     height: 16px;
-    background-color: #f40b0b;
+    background-color: #900404;
     color: #222;
     font-size: 11px;
     font-weight: 400;
@@ -4484,7 +4484,7 @@ blockquote:after {
     right: 20px;
     border-radius: 50px;
     z-index: 999;
-    border: 2px solid #f40b0b;
+    border: 2px solid #900404;
     height: 40px;
     text-align: center;
     cursor: pointer;
@@ -4493,7 +4493,7 @@ blockquote:after {
 }
 
 #back-to-top {
-    color: #f40b0b;
+    color: #900404;
     padding: 0;
     font-size: 18px
 }
@@ -4521,7 +4521,7 @@ blockquote:after {
     font-size: 160px;
     line-height: 1;
     margin: 0 0 30px;
-    color: #f40b0b
+    color: #900404
 }
 
 .errorgrid h4 {
@@ -4691,7 +4691,7 @@ blockquote:after {
     font-style: normal;
     font-weight: 400;
     margin-right: 10px;
-    color: #f40b0b
+    color: #900404
 }
 
 .testi-wrap {
@@ -4864,7 +4864,7 @@ ul.iconfit li>a {
     font-weight: 400;
     line-height: 34px;
     padding: 15px 0;
-    background: #f40b0b;
+    background: #900404;
     overflow: hidden;
     text-align: center;
     -webkit-border-top-left-radius: 6px;
@@ -5041,7 +5041,7 @@ ul.iconfit li>a {
     }
 
     .headblog:before {
-        border-top: 110px solid #f40b0b
+        border-top: 110px solid #900404
     }
 
     #main-menu,#top-bar,.box-right,.content-left {
@@ -5057,7 +5057,7 @@ ul.iconfit li>a {
     }
 
     #sticky-wrap.stickyhead .headblog:before {
-        border-top: 108px solid #f40b0b
+        border-top: 108px solid #900404
     }
 
     .mobile-menu,.slide-menu-toggle {

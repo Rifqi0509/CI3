@@ -9,8 +9,10 @@ class Welcome extends CI_Controller {
 		$this->load->view('welcome_message');
 		$this->load->view('/templates/footer');
 	}
+	
 	public function __construct() {
 		parent::__construct();
 		$this->load->helper('url');
 	}
+	
 }

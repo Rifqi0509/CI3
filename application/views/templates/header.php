@@ -5,20 +5,20 @@
         <meta content='#ffffff' name='theme-color'/>
         <meta content='yes' name='apple-mobile-web-app-capable'/>
         <meta content='#ffffff' name='apple-mobile-web-app-status-bar-style'/>
-        <link href='https://spbe.banjarmasinkota.go.id/' hreflang='x-default' rel='alternate'/>
+        <link href='https://spbe.malangkab.go.id/' hreflang='x-default' rel='alternate'/>
         <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
         <!-- Chrome, Firefox OS and Opera -->
         <meta content='#ffffff' name='theme-color'/>
         <!-- Windows Phone -->
         <meta content='#ffffff' name='msapplication-navbutton-color'/>
         <meta content='blogger' name='generator'/>
-        <link href='https://spbe.banjarmasinkota.go.id/favicon.ico' rel='icon' type='image/x-icon'/>
-        <link href='https://spbe.banjarmasinkota.go.id/' rel='canonical'/>
-        <link rel="alternate" type="application/atom+xml" title="SPBE Pemerintah Kabupaten Malang - Atom" href="https://spbe.banjarmasinkota.go.id/feeds/posts/default"/>
-        <link rel="alternate" type="application/rss+xml" title="SPBE Pemerintah Kabupaten Malang - RSS" href="https://spbe.banjarmasinkota.go.id/feeds/posts/default?alt=rss"/>
+        <link rel="icon" href="assets/img/logo_malangkab.png" type="image/png">
+        <link href='https://spbe.malangkab.go.id/' rel='canonical'/>
+        <link rel="alternate" type="application/atom+xml" title="SPBE Pemerintah Kabupaten Malang - Atom" href="https://spbe.malangkab.go.id/feeds/posts/default"/>
+        <link rel="alternate" type="application/rss+xml" title="SPBE Pemerintah Kabupaten Malang - RSS" href="https://spbe.malangkab.go.id/feeds/posts/default?alt=rss"/>
         <link rel="service.post" type="application/atom+xml" title="SPBE Pemerintah Kabupaten Malang - Atom" href="https://www.blogger.com/feeds/5382271842762528352/posts/default"/>
         <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
-        <meta content='https://spbe.banjarmasinkota.go.id/' property='og:url'/>
+        <meta content='https://spbe.malangkab.go.id/' property='og:url'/>
         <meta content='SPBE Pemerintah Kabupaten Malang' property='og:title'/>
         <meta content='' property='og:description'/>
         <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w1200-h630-p-k-no-nu/1.png' property='og:image'/>
@@ -56,10 +56,6 @@
                                             <i class='colorange fas fa-map-marker-alt'></i>
                                             Malang 70111, Jawa Timur, ID
                                         </li>
-                                        <li>
-                                            <i class='colorange far fa-envelope-open'></i>
-                                            <a href='mailto:spbe@mail.banjarmasinkota.go.id'>spbe@mail.banjarmasinkota.go.id</a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -69,7 +65,7 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li>
-                                            <a href='https://malangkab.go.id' rel='nofollow noreferrer' title='Pemerintah Kota Banjarmasin'>Pemerintah Kota Banjarmasin</a>
+                                            <a href='https://malangkab.go.id' rel='nofollow noreferrer' title='Pemerintah Kabupaten Malang'>Pemerintah Kabupaten Malang</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -85,8 +81,8 @@
                         <div class='subheader headblog section' id='headblog' name='Tajuk'>
                             <div class='widget Header' data-version='2' id='Header1'>
                                 <div class='header-widget'>
-                                    <a class='header-brand' href='https://spbe.banjarmasinkota.go.id/'>
-                                        <img alt='SPBE Pemerintah Kota Banjarmasin' data-height='81' data-width='256' src='https://blogger.googleusercontent.com/img/a/AVvXsEhE6nm5Roxn1IL5YK36l5OYA9uDoCOVIAHuAtOVOQoyspSuwDJyncbkQsm9LBYnLv45ALdP9JFE4OlUTsDsHxZcXqNAN87rZjYnLGY0H_Xk5UJ6QbEr_yuOG6FQb9en0-9Vpu5l1cOiBnsZGZsj0KnJNADzdZCHDiGAzLb3tEwoaGqGQMZoTVovBLK4=s256'/>
+                                    <a class='header-brand' href='https://spbe.malangkab.go.id/'>
+                                        <img alt='SPBE Pemerintah Kabupaten Malang' data-height='81' data-width='256' src='<?php echo base_url("assets/img/logo.png"); ?>' style="max-width: 200px; height: auto;" />
                                     </a>
                                 </div>
                             </div>
@@ -96,16 +92,16 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li class='facebook'>
-                                            <a href='https://facebook.com/spbe.banjarmasin' rel='nofollow noreferrer' target='_blank' title='facebook'></a>
+                                            <a href='#' rel='nofollow noreferrer' target='_blank' title='facebook'></a>
                                         </li>
                                         <li class='twitter'>
-                                            <a href='https://twitter.com/spbe.banjarmasin' rel='nofollow noreferrer' target='_blank' title='twitter'></a>
+                                            <a href='#' rel='nofollow noreferrer' target='_blank' title='twitter'></a>
                                         </li>
                                         <li class='instagram'>
-                                            <a href='https://instagram.com/spbe.banjarmasin' rel='nofollow noreferrer' target='_blank' title='instagram'></a>
+                                            <a href='#' rel='nofollow noreferrer' target='_blank' title='instagram'></a>
                                         </li>
                                         <li class='youtube'>
-                                            <a href='https://youtube.com/spbe.banjarmasin' rel='nofollow noreferrer' target='_blank' title='youtube'></a>
+                                            <a href='#' rel='nofollow noreferrer' target='_blank' title='youtube'></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -119,7 +115,7 @@
                             </label>
                             <div id='searchcontainer'>
                                 <div class='searchbox'>
-                                    <form action='https://spbe.banjarmasinkota.go.id/search' id='search'>
+                                    <form action='https://spbe.malangkab.go.id/search' id='search'>
                                         <input autocomplete='off' id='search-terms' name='q' placeholder='Ketik Disini...' tabindex='-1' type='text' value=''/>
                                     </form>
                                 </div>
@@ -142,25 +138,25 @@
                                             <div class='widget LinkList' data-version='2' id='LinkList113'>
                                                 <ul id='main-menu-nav' role='menubar'>
                                                     <li>
-                                                        <a href='/' role='menuitem'>Beranda</a>
+                                                        <a href='/spbemalang' role='menuitem'>Beranda</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>Domain SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/domain-kebijakan-spbe.html' role='menuitem'>_Kebijakan SPBE</a>
+                                                        <a href='/spbemalang/domain/kebijakanspbe' role='menuitem'>_Kebijakan SPBE</a>
                                                     </li>
                                                     <li>
                                                     <a href="/spbemalang/domain/tata_kelola" role="menuitem">_Tata Kelola SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/domain-manajemen-spbe.html' role='menuitem'>_Manajemen SPBE</a>
+                                                        <a href='/spbemalang/domain/manajemen_spbe' role='menuitem'>_Manajemen SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/domain-layanan-spbe.html' role='menuitem'>_Layanan SPBE</a>
+                                                        <a href='/spbemalang/domain/layanan_spbe' role='menuitem'>_Layanan SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/search/?&max-results=6' role='menuitem'>Informasi Terbaru</a>
+                                                        <a href='/spbemalang/domain/informasi' role='menuitem'>Informasi Terbaru</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>Detail</a>
@@ -169,28 +165,28 @@
                                                         <a href='#' role='menuitem'>_SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/regulasi-spbe.html' role='menuitem'>__Regulasi</a>
+                                                        <a href='/spbemalang/spbe/regulasi_spbe' role='menuitem'>__Regulasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/sop-monitoring-dan-evaluasi-spbe.html' role='menuitem'>__SOP</a>
+                                                        <a href='/spbemalang/spbe/sop_spbe' role='menuitem'>__SOP</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/peta-rencana-spbe-pemerintah-kota.html' role='menuitem'>__Peta Rencana</a>
+                                                        <a href='/spbemalang/spbe/peta_rencana_spbe' role='menuitem'>__Peta Rencana</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/indikator-evaluasi-spbe-kemenpanrb.html' role='menuitem'>__Indikator Evaluasi</a>
+                                                        <a href='/spbemalang/spbe/indikator_evaluasi_spbe' role='menuitem'>__Indikator Evaluasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/paparan.html' role='menuitem'>__Paparan</a>
+                                                        <a href='/spbemalang/spbe/paparan_spbe' role='menuitem'>__Paparan</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/p/agenda.html' role='menuitem'>__Agenda</a>
+                                                        <a href='/spbemalang/spbe/agenda_spbe' role='menuitem'>__Agenda</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>_Aplikasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href='https://play.google.com/store/apps/details?id=com.diskominfotik.banjarmasinpintar' role='menuitem'>__Banjarmasin Pintar</a>
+                                                        <a href='https://play.google.com/store/apps/details?id=com.diskominfotik.malangkabpintar' role='menuitem'>__Malang Pintar</a>
                                                     </li>
                                                     <li>
                                                         <a href='https://tauval.spbe.go.id' role='menuitem'>__Tauval SPBE</a>
@@ -205,7 +201,7 @@
                                                         <a href='https://audit-tools-spbe.brin.go.id/webaudit/' role='menuitem'>__Audit Tools</a>
                                                     </li>
                                                     <li class='get-quote'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/p/apa-itu-spbe.html'>
+                                                        <a href='/spbemalang/domain/apaitu_spbe'>
                                                             <i class='far fa-comments'></i>
                                                             <span>Apa itu SPBE ?</span>
                                                             <i class='fal fa-long-arrow-right'></i>

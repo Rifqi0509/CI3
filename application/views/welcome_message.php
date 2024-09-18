@@ -16,14 +16,14 @@
                             <div class='box-image position-absolute' id='slider01'></div>
                             <div class='bm-content white'>
                                 <h3 class='recent-title'>
-                                    Banjarmasin <strong class='colorange'>Pintar</strong>
+                                    Malang <strong class='colorange'>Pintar</strong>
                                 </h3>
-                                <p class='bm01'>Layanan Publik dan Administrasi Pemerintah Kota Banjarmasin Dalam Genggaman</p>
+                                <p class='bm01'>Layanan Publik dan Administrasi Pemerintah Ka Malang Dalam Genggaman</p>
                                 <div class='wpbtn'>
-                                    <a class='thm-btn thm-bg' href='https://play.google.com/store/apps/details?id=com.diskominfotik.banjarmasinpintar' target="_blank" title=''>
+                                    <a class='thm-btn thm-bg' href='#' target="_blank" title=''>
                                         Unduh<i class='fal fa-long-arrow-right'></i>
                                     </a>
-                                    <a class='js-modal-video' href='https://www.youtube.com/watch?v=Qd1jbwgG2HA'>
+                                    <a class='js-modal-video' href='#'>
                                         <i class='fal fa-play'></i>
                                         <div class='ripple'></div>
                                     </a>
@@ -35,11 +35,11 @@
                             <div class='box-image position-absolute' id='slider02'></div>
                             <div class='bm-content white'>
                                 <h3 class='recent-title'>
-                                    MPP <strong class='colorange'>Banjarmasin</strong>
+                                    MPP <strong class='colorange'>Malang</strong>
                                 </h3>
-                                <p class='bm01'>Mal Pelayanan Publik Kota Banjarmasin</p>
+                                <p class='bm01'>Mal Pelayanan Publik Ka Malang</p>
                                 <div class='wpbtn'>
-                                    <a class='thm-btn thm-bg' href='https://mpp.banjarmasinkota.go.id/' target="_blank" title=''>
+                                    <a class='thm-btn thm-bg' href='#' target="_blank" title=''>
                                         Selengkapnya<i class='fal fa-long-arrow-right'></i>
                                     </a>
                                 </div>
@@ -53,7 +53,7 @@
                                 </h3>
                                 <p class='bm01'>Coaching Clinic dari Kementerian PANRB</p>
                                 <div class='wpbtn'>
-                                    <a class='thm-btn thm-bg' href='https://www.youtube.com/watch?v=ztXjHSthWGc' target="_blank" title=''>
+                                    <a class='thm-btn thm-bg' href='#' target="_blank" title=''>
                                         Selengkapnya<i class='fal fa-long-arrow-right'></i>
                                     </a>
                                 </div>
@@ -130,7 +130,8 @@
                                         47<sup></sup>
                                         <i class='d-block'>Indikator</i>
                                     </span>
-                                    <img alt='' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8B-CkksOMTS_IKaK93bteSI2DM3ZVbWEL0t_-rwZodRM3xVak1S0uLLyh4tvkf3osKV43sVlwGg3oWKjeMsa0z9J70WERrby62w6UlxcIbB-qNm6JCtU_LRXEfD2JQMM2zLi2PliDmiNNf03eNxtqqgrqlOpLQ4z-k5ACiinvx4nMSQh0yc6dZ9I/s520/Wali-Kota-Ibnu-Sina-2022.jpg'/>
+                                    <img alt='' src='<?php echo base_url("assets/img/bupati_malang.png"); ?>' />
+
                                 </div>
                             </div>
                         </div>
@@ -171,7 +172,7 @@
                         <div class='accord section' id='accord' name='Frequently Asked Questions'>
                             <div class='widget HTML' data-version='2' id='HTML89'>
                                 <div class='widget-content'>
-                                    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSclLFov1_vwyMnkXsfwVOvwyhIDltrc5K0sF16EanFLz7IlEgFdUC6my8syVVIzbN6aOY995-9WjWH/pubchart?oid=176824082&amp;format=interactive" ; width="100%" ; height="400"></iframe>
+                                <img src="<?php echo base_url('assets/img/indeks_spbe.jpg'); ?>" width="100%" height="400"></img>
                                 </div>
                             </div>
                         </div>
@@ -240,16 +241,16 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Indeks%20SPBE?&max-results=6' rel='tag' title='Indeks SPBE'>Indeks SPBE</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Indeks%20SPBE?&max-results=6' rel='tag' title='Indeks SPBE'>Indeks SPBE</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html'>
-                                                    <img alt='Indeks SPBE 2023 Pemerintah Kota Banjarmasin' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png' title='Indeks SPBE 2023 Pemerintah Kota Banjarmasin'/>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html'>
+                                                    <img alt='Indeks SPBE 2023 Pemerintah Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png' title='Indeks SPBE 2023 Pemerintah Kabupaten Malang'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html' title='Indeks SPBE 2023 Pemerintah Kota Banjarmasin'>Indeks SPBE 2023 Pemerintah Kota Banjarmasin</a>
+                                                        <a href='https://spbe.malangkab.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html' title='Indeks SPBE 2023 Pemerintah Kabupaten Malang'>Indeks SPBE 2023 Pemerintah Kabupaten Malang</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -264,16 +265,16 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Indeks%20SPBE%20dan%20Smart%20City?&max-results=6' rel='tag' title='Indeks SPBE dan Smart City'>Indeks SPBE dan Smart City</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Indeks%20SPBE%20dan%20Smart%20City?&max-results=6' rel='tag' title='Indeks SPBE dan Smart City'>Indeks SPBE dan Smart City</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2024/01/indeks-smart-city-dan-spbe-banjarmasin.html'>
-                                                    <img alt='Indeks Smart City dan SPBE Banjarmasin Alami Peningkatan Pesat' class='sizeimg' src='https://blogger.googleusercontent.com/img/a/AVvXsEg3aCP4hilzkySyVvmBshcceOYqzs-PQYOpHQNIUWoJO-ul2YLzajrU7u-q5iSneTMiT2N2S1jV4RPpnI4LzBtQ6bIEUGqBaFNAOfQwCalr5HgNoxFq5G3UCtlIjCgswlNXRycy2jMLlVu_BO4E29ylJkz5REN6QU20Ud7KkaPWvUeOk2wM1Lda4weM43XY=w680' title='Indeks Smart City dan SPBE Banjarmasin Alami Peningkatan Pesat'/>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2024/01/indeks-smart-city-dan-spbe-malang.html'>
+                                                    <img alt='Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat' class='sizeimg' src='https://blogger.googleusercontent.com/img/a/AVvXsEg3aCP4hilzkySyVvmBshcceOYqzs-PQYOpHQNIUWoJO-ul2YLzajrU7u-q5iSneTMiT2N2S1jV4RPpnI4LzBtQ6bIEUGqBaFNAOfQwCalr5HgNoxFq5G3UCtlIjCgswlNXRycy2jMLlVu_BO4E29ylJkz5REN6QU20Ud7KkaPWvUeOk2wM1Lda4weM43XY=w680' title='Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2024/01/indeks-smart-city-dan-spbe-banjarmasin.html' title='Indeks Smart City dan SPBE Banjarmasin Alami Peningkatan Pesat'>Indeks Smart City dan SPBE Banjarmasin Alami Peningkatan Pesat</a>
+                                                        <a href='https://spbe.malangkab.go.id/2024/01/indeks-smart-city-dan-spbe-malang.html' title='Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat'>Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -288,17 +289,17 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Manajemen%20Risiko%20SPBE?&max-results=6' rel='tag' title='Manajemen Risiko SPBE'>Manajemen Risiko SPBE</a>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Peningkatan%20SDM%20TIK?&max-results=6' rel='tag' title='Peningkatan SDM TIK'>Peningkatan SDM TIK</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Manajemen%20Risiko%20SPBE?&max-results=6' rel='tag' title='Manajemen Risiko SPBE'>Manajemen Risiko SPBE</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Peningkatan%20SDM%20TIK?&max-results=6' rel='tag' title='Peningkatan SDM TIK'>Peningkatan SDM TIK</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/11/sosialisasi-dan-bimbingan-teknis.html'>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/11/sosialisasi-dan-bimbingan-teknis.html'>
                                                     <img alt='Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCgHjjEABgTX3Unqca_x_FenmPCqafwX3UkSyhKbDtSg4gItC5RW-5dzSmHzVEnS9rRhCuxan0F1PHt3g5JQc2KuwUP9AcV1EOtId1DhwRkPta-d_iSyUDCRPp6jDXKpkpMBhoK78cZPJ9Byj_VEfZoSt9fIfi-pXHjPdcFZnQYMkxDgsga2vE1YdWwGk/w680/MAL_7956.JPG' title='Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2023/11/sosialisasi-dan-bimbingan-teknis.html' title='Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE'>Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE</a>
+                                                        <a href='https://spbe.malangkab.go.id/2023/11/sosialisasi-dan-bimbingan-teknis.html' title='Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE'>Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -313,16 +314,16 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Layanan%20SPBE?&max-results=6' rel='tag' title='Layanan SPBE'>Layanan SPBE</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Layanan%20SPBE?&max-results=6' rel='tag' title='Layanan SPBE'>Layanan SPBE</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/09/aplikasi-banjarmasin-pintar-raih.html'>
-                                                    <img alt='Aplikasi Banjarmasin Pintar Raih Penghargaan' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoI-IX_u-W8Hkdlok0R-ydBfrq5pq3oguYqbO0RTvUT4hsNY-0yFOta_fH2GQDVVrF8sSCoSHhs6kclRSJb_MGmiL9rj3S-nB3lyeGLHZhN63Oh1TtiHSpqEjCnrhuGa5FcmyzmJKh1pb7NCF9D0oXtgEW8dWx-pv6aVnMdw9vLl-dzHRabWhExVzKV5OY/w680/372103623_213901954712770_2647714261297021375_n.heic' title='Aplikasi Banjarmasin Pintar Raih Penghargaan'/>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/09/aplikasi-malang-pintar-raih.html'>
+                                                    <img alt='Aplikasi Malang Pintar Raih Penghargaan' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoI-IX_u-W8Hkdlok0R-ydBfrq5pq3oguYqbO0RTvUT4hsNY-0yFOta_fH2GQDVVrF8sSCoSHhs6kclRSJb_MGmiL9rj3S-nB3lyeGLHZhN63Oh1TtiHSpqEjCnrhuGa5FcmyzmJKh1pb7NCF9D0oXtgEW8dWx-pv6aVnMdw9vLl-dzHRabWhExVzKV5OY/w680/372103623_213901954712770_2647714261297021375_n.heic' title='Aplikasi Malang Pintar Raih Penghargaan'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2023/09/aplikasi-banjarmasin-pintar-raih.html' title='Aplikasi Banjarmasin Pintar Raih Penghargaan'>Aplikasi Banjarmasin Pintar Raih Penghargaan</a>
+                                                        <a href='https://spbe.malangkab.go.id/2023/09/aplikasi-malang-pintar-raih.html' title='Aplikasi Malang Pintar Raih Penghargaan'>Aplikasi Malang Pintar Raih Penghargaan</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -337,16 +338,16 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Peningkatan%20SDM%20TIK?&max-results=6' rel='tag' title='Peningkatan SDM TIK'>Peningkatan SDM TIK</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Peningkatan%20SDM%20TIK?&max-results=6' rel='tag' title='Peningkatan SDM TIK'>Peningkatan SDM TIK</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/07/seminar-implementasi-sistem.html'>
-                                                    <img alt='Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kota Banjarmasin' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq6Rdlik8ZjhRktytRB5R2Paae9G7M16rbxXOTCywOPcgvK67xsf0j-hdBV60T_yFNPEgbS26fGEjyfsIjUkLRsNWWNAny3A2c4_FGicSrevf9vAxpnwGeRTjTKxYtq17C9SlOqSuWok5uq7qkRM73YsoxJWQmprHLdINAlJQj-DjyOHZvSbioi8VuKwwL/w680/357483852_1543097882886190_6450020503380630934_n.jpg' title='Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kota Banjarmasin'/>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/07/seminar-implementasi-sistem.html'>
+                                                    <img alt='Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq6Rdlik8ZjhRktytRB5R2Paae9G7M16rbxXOTCywOPcgvK67xsf0j-hdBV60T_yFNPEgbS26fGEjyfsIjUkLRsNWWNAny3A2c4_FGicSrevf9vAxpnwGeRTjTKxYtq17C9SlOqSuWok5uq7qkRM73YsoxJWQmprHLdINAlJQj-DjyOHZvSbioi8VuKwwL/w680/357483852_1543097882886190_6450020503380630934_n.jpg' title='Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2023/07/seminar-implementasi-sistem.html' title='Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kota Banjarmasin'>Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kota Banjarmasin</a>
+                                                        <a href='https://spbe.malangkab.go.id/2023/07/seminar-implementasi-sistem.html' title='Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang'>Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -361,16 +362,16 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Layanan%20SPBE?&max-results=6' rel='tag' title='Layanan SPBE'>Layanan SPBE</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Layanan%20SPBE?&max-results=6' rel='tag' title='Layanan SPBE'>Layanan SPBE</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html'>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html'>
                                                     <img alt='Launching dan Sosialisasi Aplikasi Parak Acil Online' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHdJLq03C6cCpO3xrPt_sC5BKFX80zxuLp2BhQGK6DPPzmjGKXhK_6rxMcm8tKeDJCZIPA6U0sWm7qgmAWNoZDgaXq1_iUwGAyJSHi9ws0Zee8rwvEadFWDULvY29vah_fz3puLH-T0mk2SaJ4HwVX2fERQ9fEOZInTwPs_OgBMPa08es9uwQlQnKlXw/w680/345563389_791672102460317_6556629839440728014_n.webp' title='Launching dan Sosialisasi Aplikasi Parak Acil Online'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html' title='Launching dan Sosialisasi Aplikasi Parak Acil Online'>Launching dan Sosialisasi Aplikasi Parak Acil Online</a>
+                                                        <a href='https://spbe.malangkab.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html' title='Launching dan Sosialisasi Aplikasi Parak Acil Online'>Launching dan Sosialisasi Aplikasi Parak Acil Online</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -385,16 +386,16 @@
                                         <article class='blog-post hentry halaman-indeks'>
                                             <div class='post-image-wrap'>
                                                 <span class='post-tag halaman-indeks-tag'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/search/label/Peningkatan%20SDM%20TIK?&max-results=6' rel='tag' title='Peningkatan SDM TIK'>Peningkatan SDM TIK</a>
+                                                    <a href='https://spbe.malangkab.go.id/search/label/Peningkatan%20SDM%20TIK?&max-results=6' rel='tag' title='Peningkatan SDM TIK'>Peningkatan SDM TIK</a>
                                                 </span>
-                                                <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/03/bimtek-pengelolaan-website-digelar.html'>
+                                                <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/03/bimtek-pengelolaan-website-digelar.html'>
                                                     <img alt='Bimtek Pengelolaan Website Digelar Untuk Tingkatkan Kualitas Situs Web SKPD' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5r4y1tZdygRA_ucSUJHOvbFDpaWDQFkTTiKbOmQKArU0dWUi_nKKGqvLuKfy7wnF20kI71PW1HTkVqvVJVuuHvZcBRO8skHy2_LEMjLpXb-IRPnqs5ginkAap5ZQOITsyUBloq3z2csrEXNI4XxJX9LZAHSlM2nfuGS6Oml5AX-BcUCZ9GhU-xsQ5g/w680/58.jpg' title='Bimtek Pengelolaan Website Digelar Untuk Tingkatkan Kualitas Situs Web SKPD'/>
                                                 </a>
                                             </div>
                                             <div class='post-info'>
                                                 <div class='homebox'>
                                                     <h2 class='post-title'>
-                                                        <a href='https://spbe.banjarmasinkota.go.id/2023/03/bimtek-pengelolaan-website-digelar.html' title='Bimtek Pengelolaan Website Digelar Untuk Tingkatkan Kualitas Situs Web SKPD'>Bimtek Pengelolaan Website Digelar Untuk Tingkatkan Kualitas Situs Web SKPD</a>
+                                                        <a href='https://spbe.malangkab.go.id/2023/03/bimtek-pengelolaan-website-digelar.html' title='Bimtek Pengelolaan Website Digelar Untuk Tingkatkan Kualitas Situs Web SKPD'>Bimtek Pengelolaan Website Digelar Untuk Tingkatkan Kualitas Situs Web SKPD</a>
                                                     </h2>
                                                     <div class='post-meta'>
                                                         <span class='post-author'>
@@ -409,7 +410,7 @@
                                     </div>
                                 </div>
                                 <div class='blog-pager container' id='blog-pager'>
-                                    <a class='blog-pager-older-link thm-btn thm-bg' data-load='https://spbe.banjarmasinkota.go.id/search?updated-max=2023-03-16T10:43:00%2B08:00&max-results=7' href='javascript:;' id='load-grid'>Loadmore</a>
+                                    <a class='blog-pager-older-link thm-btn thm-bg' data-load='https://spbe.malangkab.go.id/search?updated-max=2023-03-16T10:43:00%2B08:00&max-results=7' href='javascript:;' id='load-grid'>Loadmore</a>
                                     <span class='loading'>
                                         <span class='loader'></span>
                                     </span>
@@ -455,67 +456,67 @@
                                         <div id='BlogArchive1_ArchiveList'>
                                             <ul class='flat'>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/01/'>
+                                                    <a href='https://spbe.malangkab.go.id/2022/01/'>
                                                         Januari<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/02/'>
+                                                    <a href='https://spbe.malangkab.go.id/2022/02/'>
                                                         Februari<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/05/'>
+                                                    <a href='https://spbe.malangkab.go.id/2022/05/'>
                                                         Mei<span class='post-count'>2</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/07/'>
+                                                    <a href='https://spbe.malangkab.go.id/2022/07/'>
                                                         Juli<span class='post-count'>5</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/08/'>
+                                                    <a href='https://spbe.malangkab.go.id/2022/08/'>
                                                         Agustus<span class='post-count'>6</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/10/'>
+                                                    <a href='https://spbe.malangkab.go.id/2022/10/'>
                                                         Oktober<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/02/'>
+                                                    <a href='https://spbe.malangkab.go.id/2023/02/'>
                                                         Februari<span class='post-count'>6</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/03/'>
+                                                    <a href='https://spbe.malangkab.go.id/2023/03/'>
                                                         Maret<span class='post-count'>2</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/05/'>
+                                                    <a href='https://spbe.malangkab.go.id/2023/05/'>
                                                         Mei<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/07/'>
+                                                    <a href='https://spbe.malangkab.go.id/2023/07/'>
                                                         Juli<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/09/'>
+                                                    <a href='https://spbe.malangkab.go.id/2023/09/'>
                                                         September<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/11/'>
+                                                    <a href='https://spbe.malangkab.go.id/2023/11/'>
                                                         November<span class='post-count'>1</span>
                                                     </a>
                                                 </li>
                                                 <li class='archivedate'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2024/01/'>
+                                                    <a href='https://spbe.malangkab.go.id/2024/01/'>
                                                         Januari<span class='post-count'>2</span>
                                                     </a>
                                                 </li>
@@ -532,12 +533,12 @@
                                 <div class='widget-content'>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html'>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html'>
                                                 <img alt='Launching dan Sosialisasi Aplikasi Parak Acil Online' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHdJLq03C6cCpO3xrPt_sC5BKFX80zxuLp2BhQGK6DPPzmjGKXhK_6rxMcm8tKeDJCZIPA6U0sWm7qgmAWNoZDgaXq1_iUwGAyJSHi9ws0Zee8rwvEadFWDULvY29vah_fz3puLH-T0mk2SaJ4HwVX2fERQ9fEOZInTwPs_OgBMPa08es9uwQlQnKlXw/w680/345563389_791672102460317_6556629839440728014_n.webp' title='Launching dan Sosialisasi Aplikasi Parak Acil Online'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html'>Launching dan Sosialisasi Aplikasi Parak Acil Online</a>
+                                                    <a href='https://spbe.malangkab.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html'>Launching dan Sosialisasi Aplikasi Parak Acil Online</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2023-05-10T15:30:00+08:00'>Mei 10, 2023</span>
@@ -547,12 +548,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/02/sosialisasi-dan-evaluasi-aplikasi.html'>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/02/sosialisasi-dan-evaluasi-aplikasi.html'>
                                                 <img alt='Sosialisasi dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTM4EM3UedNqy80xKl59iUf_cMWBCvlZ7YpKV-wg2vtyYmJjk7-FtMrDqXApO0DbSm4qV9phWV3a3X1Jxe06ptl99GF-KfJQJQ6z_DSIUCyYoz4C48dSK7NUitfC6DvG5ruYw1vn2nZ4lBgjDP8KT_opV50jqn8J2Yw9lxTSP1-C7tvtsUS9LYlv46A/w680/WhatsApp%20Image%202023-02-16%20at%2009.07.37.jpeg' title='Sosialisasi dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/02/sosialisasi-dan-evaluasi-aplikasi.html'>Sosialisasi dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan</a>
+                                                    <a href='https://spbe.malangkab.go.id/2023/02/sosialisasi-dan-evaluasi-aplikasi.html'>Sosialisasi dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2023-02-16T14:40:00+08:00'>Februari 16, 2023</span>
@@ -562,12 +563,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2023/02/indeks-spbe-2022-pemerintah-kota.html'>
-                                                <img alt='Indeks SPBE 2022 Pemerintah Kota Banjarmasin' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7qnLcQKgjz2o786mcvw79VA8_GzfLydj_TFd5m4lHVmBRUVnyq_Pm0b__ZDTzE_lPgDRU8ueNe2dTy8FsAejJQi1sJNKfFSfiDzWl4sUsIyJxLLB1gkdkGhIFEZTQXq_XtECBp4By9deWn8I1inMO8Q4fsjYQxlYIr7cO2HeTHCBFr7wBs73LYFGVcrs/w680/2022-1.png' title='Indeks SPBE 2022 Pemerintah Kota Banjarmasin'/>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2023/02/indeks-spbe-2022-pemerintah-kota.html'>
+                                                <img alt='Indeks SPBE 2022 Pemerintah Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7qnLcQKgjz2o786mcvw79VA8_GzfLydj_TFd5m4lHVmBRUVnyq_Pm0b__ZDTzE_lPgDRU8ueNe2dTy8FsAejJQi1sJNKfFSfiDzWl4sUsIyJxLLB1gkdkGhIFEZTQXq_XtECBp4By9deWn8I1inMO8Q4fsjYQxlYIr7cO2HeTHCBFr7wBs73LYFGVcrs/w680/2022-1.png' title='Indeks SPBE 2022 Pemerintah Kabupaten Malang'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2023/02/indeks-spbe-2022-pemerintah-kota.html'>Indeks SPBE 2022 Pemerintah Kota Banjarmasin</a>
+                                                    <a href='https://spbe.malangkab.go.id/2023/02/indeks-spbe-2022-pemerintah-kota.html'>Indeks SPBE 2022 Pemerintah Kabupaten Malang</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2023-02-03T16:57:00+08:00'>Februari 03, 2023</span>
@@ -577,12 +578,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2022/02/hasil-evaluasi-spbe-21.html'>
-                                                <img alt='Indeks SPBE 2021 Pemerintah Kota Banjarmasin' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GDWjVVMKb7ls3IX-kVOb9KSsXpZhjqakN4LAzPZWryEk1drzlZ48jyQkLvnYDgZ20ugsZSYkpiFWdUYIIeNYT8TwEoAhc-TOE83ymoHGgr8rvG71-ZOlVgTkS5wZjsn3xM0ZCgxJFQODD01GJrt941cUBsbS-J0ftMFI4OAX8zYByNKMxEJparD9AQ/w680/HasilSPBE2021.png' title='Indeks SPBE 2021 Pemerintah Kota Banjarmasin'/>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2022/02/hasil-evaluasi-spbe-21.html'>
+                                                <img alt='Indeks SPBE 2021 Pemerintah Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GDWjVVMKb7ls3IX-kVOb9KSsXpZhjqakN4LAzPZWryEk1drzlZ48jyQkLvnYDgZ20ugsZSYkpiFWdUYIIeNYT8TwEoAhc-TOE83ymoHGgr8rvG71-ZOlVgTkS5wZjsn3xM0ZCgxJFQODD01GJrt941cUBsbS-J0ftMFI4OAX8zYByNKMxEJparD9AQ/w680/HasilSPBE2021.png' title='Indeks SPBE 2021 Pemerintah Kabupaten Malang'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/02/hasil-evaluasi-spbe-21.html'>Indeks SPBE 2021 Pemerintah Kota Banjarmasin</a>
+                                                    <a href='https://spbe.malangkab.go.id/2022/02/hasil-evaluasi-spbe-21.html'>Indeks SPBE 2021 Pemerintah Kabupaten Malang</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2022-02-24T17:50:00+08:00'>Februari 24, 2022</span>
@@ -592,12 +593,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2022/07/sosialisasi-aplikasi-presensi-dan-tpp.html'>
-                                                <img alt='Sosialisasi Aplikasi Presensi dan TPP di Kecamatan Banjarmasin Selatan' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_xxkXzyhd9IkpxfXhMzrEzg2A_3pLBlGfImLPx2pP3VpKoF5XI-q7iQk1IUdBPKuEiU0eXJsgZBa-bIqipAmROQgKNVDqVSwqwPmTxCVH-O3PledgcTCB6-Ah1XQNvZkrOxFhhdjx7M9dBFD7AQZYfiQBlw9VpBkb9a23skZ1bJeEwwoyVMWS7kmKg/w680/IMG-20220718-WA0008.jpg' title='Sosialisasi Aplikasi Presensi dan TPP di Kecamatan Banjarmasin Selatan'/>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2022/07/sosialisasi-aplikasi-presensi-dan-tpp.html'>
+                                                <img alt='Sosialisasi Aplikasi Presensi dan TPP di Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_xxkXzyhd9IkpxfXhMzrEzg2A_3pLBlGfImLPx2pP3VpKoF5XI-q7iQk1IUdBPKuEiU0eXJsgZBa-bIqipAmROQgKNVDqVSwqwPmTxCVH-O3PledgcTCB6-Ah1XQNvZkrOxFhhdjx7M9dBFD7AQZYfiQBlw9VpBkb9a23skZ1bJeEwwoyVMWS7kmKg/w680/IMG-20220718-WA0008.jpg' title='Sosialisasi Aplikasi Presensi dan TPP di Kabupaten Malang'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/07/sosialisasi-aplikasi-presensi-dan-tpp.html'>Sosialisasi Aplikasi Presensi dan TPP di Kecamatan Banjarmasin Selatan</a>
+                                                    <a href='https://spbe.malangkab.go.id/2022/07/sosialisasi-aplikasi-presensi-dan-tpp.html'>Sosialisasi Aplikasi Presensi dan TPP di Kabupaten Malang</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2022-07-18T15:30:00+08:00'>Juli 18, 2022</span>
@@ -607,12 +608,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2022/08/rapat-perkembangan-aplikasi-parak-acil.html'>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2022/08/rapat-perkembangan-aplikasi-parak-acil.html'>
                                                 <img alt='Rapat Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWKZAqye_yyA9bWMjAGUALsderTOGz8dbpQGP3XHsjn31AyTXSWv2JPdeewnIqLfQ_7tLapZfEgGHkQ3VEqTGPKulELdq-ePGERlxw-z5PmAzlTWRS6uQSlzgxoQwkHtTI4B8I9A2p8IXI0lO4FZ_c0APdJjXHKMfq9H1ct0-nnH72OIDVYu-PoxCOw/w680/WhatsApp%20Image%202022-08-23%20at%2010.30.21%20AM.jpeg' title='Rapat Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/08/rapat-perkembangan-aplikasi-parak-acil.html'>Rapat Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022</a>
+                                                    <a href='https://spbe.malangkab.go.id/2022/08/rapat-perkembangan-aplikasi-parak-acil.html'>Rapat Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2022-08-24T08:30:00+08:00'>Agustus 24, 2022</span>
@@ -622,12 +623,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html'>
-                                                <img alt='Indeks SPBE 2023 Pemerintah Kota Banjarmasin' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png' title='Indeks SPBE 2023 Pemerintah Kota Banjarmasin'/>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html'>
+                                                <img alt='Indeks SPBE 2023 Pemerintah Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png' title='Indeks SPBE 2023 Pemerintah Kabupaten Malang'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html'>Indeks SPBE 2023 Pemerintah Kota Banjarmasin</a>
+                                                    <a href='https://spbe.malangkab.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html'>Indeks SPBE 2023 Pemerintah Kabupaten Malang</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2024-01-27T11:40:00+08:00'>Januari 27, 2024</span>
@@ -637,12 +638,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2022/01/hasil-evaluasi-spbe-19.html'>
-                                                <img alt='Indeks SPBE 2019 Pemerintah Kota Banjarmasin' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBHEcZCQGIHNXNkmQvikXti0zOgCs275HT3ttFPoAeXXJwoj5UX8-0xlXEeKLTywswYX-xVOPKb2NQoTwJU6CmpqaA4I6GPQQO93dG5qGK-k_4h6RzjY3uVRJfDH8hKkLkGZ3GKKE-1DEJSqAmQiEagSQ8ZnzI2NfHXH8ylSzctfmWJ_v-5DHGI9pyL8AE/w680/2019-1.png' title='Indeks SPBE 2019 Pemerintah Kota Banjarmasin'/>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2022/01/hasil-evaluasi-spbe-19.html'>
+                                                <img alt='Indeks SPBE 2019 Pemerintah Kabupaten Malang' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBHEcZCQGIHNXNkmQvikXti0zOgCs275HT3ttFPoAeXXJwoj5UX8-0xlXEeKLTywswYX-xVOPKb2NQoTwJU6CmpqaA4I6GPQQO93dG5qGK-k_4h6RzjY3uVRJfDH8hKkLkGZ3GKKE-1DEJSqAmQiEagSQ8ZnzI2NfHXH8ylSzctfmWJ_v-5DHGI9pyL8AE/w680/2019-1.png' title='Indeks SPBE 2019 Pemerintah Kabupaten Malang'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/01/hasil-evaluasi-spbe-19.html'>Indeks SPBE 2019 Pemerintah Kota Banjarmasin</a>
+                                                    <a href='https://spbe.malangkab.go.id/2022/01/hasil-evaluasi-spbe-19.html'>Indeks SPBE 2019 Pemerintah Kabupaten Malang</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2022-01-24T17:12:00+08:00'>Januari 24, 2022</span>
@@ -652,12 +653,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2022/08/progres-pembuatan-aplikasi-laporan-rfk.html'>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2022/08/progres-pembuatan-aplikasi-laporan-rfk.html'>
                                                 <img alt='Progres Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJmN_rXmDUbxUa6xBwQ0A2wrHooCa_2hbytEC4DJUQdODA-GjRXGgwoljt6uB2CFsewOLw7LYGYFyrNXQVcwIZxH3zaqC-93Mr77SkhhVtb1Q0297-VheHj1FoRtnp-il_RKgDB8_j-xrMzn_7It8Ha9XRrkCnVITCJNXvRojpa0w4hDXKwOrsbpnD0Q/w680/WhatsApp%20Image%202022-08-03%20at%209.28.25%20AM.jpeg' title='Progres Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/08/progres-pembuatan-aplikasi-laporan-rfk.html'>Progres Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022</a>
+                                                    <a href='https://spbe.malangkab.go.id/2022/08/progres-pembuatan-aplikasi-laporan-rfk.html'>Progres Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2022-08-04T10:43:00+08:00'>Agustus 04, 2022</span>
@@ -667,12 +668,12 @@
                                     </div>
                                     <div class='post'>
                                         <div class='post-content'>
-                                            <a class='post-image-link' href='https://spbe.banjarmasinkota.go.id/2022/05/penerapan-spbe-dalam-mendukung.html'>
+                                            <a class='post-image-link' href='https://spbe.malangkab.go.id/2022/05/penerapan-spbe-dalam-mendukung.html'>
                                                 <img alt='Penerapan SPBE Dalam Mendukung Transformasi Digital di Pemerintahan' class='sizeimg' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6NNt8I0tDfGZmgwngdKBq3UAZWv8yp6BzcoOpdRjpMk-SmhUtCdEDiai-_6vvpXX_EWt25xUwVsylHvKOOW5XDzOd4o-LGmKfAKj7O9b7lTjfnDcENBTyV3Imtlz8K2Hw91lwlIMwyilObqUpt5b3XA12QaYTA-Zu_yOETBaNWQkWn6IMMb6JmK8/w680/Penerapan-SPBE-Transformasi-Digital-20220530.jpg' title='Penerapan SPBE Dalam Mendukung Transformasi Digital di Pemerintahan'/>
                                             </a>
                                             <div class='post-info'>
                                                 <h2 class='post-title'>
-                                                    <a href='https://spbe.banjarmasinkota.go.id/2022/05/penerapan-spbe-dalam-mendukung.html'>Penerapan SPBE Dalam Mendukung Transformasi Digital di Pemerintahan</a>
+                                                    <a href='https://spbe.malangkab.go.id/2022/05/penerapan-spbe-dalam-mendukung.html'>Penerapan SPBE Dalam Mendukung Transformasi Digital di Pemerintahan</a>
                                                 </h2>
                                                 <div class='post-meta'>
                                                     <span class='post-date published' datetime='2022-05-30T13:29:00+08:00'>Mei 30, 2022</span>
@@ -722,8 +723,7 @@
                     <div class='RecentNew section' id='RecentNew' name='Recent Slider'>
                         <div class='widget HTML' data-version='2' id='HTML4'>
                             <div class='widget-title'>
-                                <h3 class='title'>Informasi Terbaru
-</h3>
+                                <h3 class='title'>Informasi Terbaru</h3>
                             </div>
                             <div class='widget-content'>
                                 <span data-type="carousel" data-no="5"></span>
@@ -732,7 +732,7 @@
                     </div>
                 </div>
                 <div class='view-all w-100 text-center'>
-                    <a class='thm-btn thm-bg' href='/search/?&max-results=6' title=''>
+                    <a class='thm-btn thm-bg' href='//spbemalang/domain/?&max-results=6' title=''>
                         Informasi & Lainnya<i class='fal fa-long-arrow-right'></i>
                     </a>
                 </div>
@@ -747,32 +747,7 @@
             </div>
         </div>
         <div class='clr'></div>
-        <div class='wrappersub'>
-            <div id='outer-wrapper'>
-                <div class='subfooter section' id='subfooter' name='Subscribe Text'>
-                    <div class='widget HTML' data-version='2' id='HTML10'>
-                        <div class='widget-title'>
-                            <h3 class='title'>Banjarmasin Pintar
-</h3>
-                        </div>
-                        <div class='widget-content'>
-                            <div class='subcontent items-center between'>
-                                <div class='subtext'>
-                                    <h2>Banjarmasin Pintar</h2>
-                                </div>
-                                <div class='subtn'>
-                                    <div class='getin-touch-btn text-right'>
-                                        <a class='thm-btn bg-color1' href='https://play.google.com/store/apps/details?id=com.diskominfotik.banjarmasinpintar' target="_blank" title=''>
-                                            Unduh<i class='fal fa-long-arrow-right'/></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
         <div class='clr'></div>
         
         <div class='back-to-top'>

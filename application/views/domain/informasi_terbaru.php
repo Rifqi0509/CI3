@@ -1,0 +1,517 @@
+<div id="outer-wrapper">
+  <!-- Content Wrapper -->
+  <div id="content-wrapper">
+    <div class="container">
+      <!-- Main Wrapper -->
+      <main class="main-wrapper">
+        <div class="main section" id="main">
+          <div class="widget Blog" data-version="2" id="Blog1">
+            <div class="blog-posts hfeed container halaman-indeks-wrap">
+              <div class="bxposts">
+                <article class="blog-post hentry halaman-indeks">
+                  <div class="post-image-wrap">
+                    <span class="post-tag halaman-indeks-tag">
+                      <a href="https://spbe.malangkab.go.id/search/label/Indeks%20SPBE?&amp;max-results=6"
+                        rel="tag" title="Indeks SPBE">Indeks SPBE</a>
+                    </span>
+                    <a class="post-image-link"
+                      href="/spbemalang/informasi/indeks_spbe">
+                      <img alt="Indeks SPBE 2023 Pemerintah Kabupaten Malang" class="sizeimg"
+                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png"
+                        title="Indeks SPBE 2023 Pemerintah Kabupaten Malang">
+                    </a>
+                  </div>
+                  <div class="post-info">
+                    <div class="homebox">
+                      <h2 class="post-title">
+                        <a href="/spbemalang/informasi/indeks_spbe"
+                          title="Indeks SPBE 2023 Pemerintah Kabupaten Malang">Indeks SPBE 2023 Pemerintah Kabupaten Malang</a>
+                      </h2>
+                      <div class="post-meta">
+                        <span class="post-author"><img alt="Admin" class="post-author-avatar"
+                            src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgibrrbd8cyImsqWJQvFyi_O_Q8bGdBoeG5dCUOGyG5hgA052s4Tz507ri3lmrhj8cZVvhI91qW9I498hFJAkCUPZjKOkcmrw_BVApQYbM9nOBrRmxCmWHbeJykDXrsOU/w20/android-chrome-192x192.png"><a
+                            href="https://www.blogger.com/profile/14418033569033797261" target="noopener"
+                            title="Admin">Admin</a></span>
+                        <span class="post-date published" datetime="2024-01-27T11:40:00+08:00">Januari 27, 2024</span>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+                <article class="blog-post hentry halaman-indeks">
+                  <div class="post-image-wrap">
+                    <span class="post-tag halaman-indeks-tag">
+                      <a href="https://spbe.malangkab.go.id/search/label/Indeks%20SPBE%20dan%20Smart%20City?&amp;max-results=6"
+                        rel="tag" title="Indeks SPBE dan Smart City">Indeks SPBE dan Smart City</a>
+                    </span>
+                    <a class="post-image-link"
+                      href="/spbemalang/informasi/smart_spbe">
+                      <img alt="Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat" class="sizeimg"
+                        src="https://blogger.googleusercontent.com/img/a/AVvXsEg3aCP4hilzkySyVvmBshcceOYqzs-PQYOpHQNIUWoJO-ul2YLzajrU7u-q5iSneTMiT2N2S1jV4RPpnI4LzBtQ6bIEUGqBaFNAOfQwCalr5HgNoxFq5G3UCtlIjCgswlNXRycy2jMLlVu_BO4E29ylJkz5REN6QU20Ud7KkaPWvUeOk2wM1Lda4weM43XY=w680"
+                        title="Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat">
+                    </a>
+                  </div>
+                  <div class="post-info">
+                    <div class="homebox">
+                      <h2 class="post-title">
+                        <a href="/spbemalang/informasi/smart_spbe"
+                          title="Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat">Indeks Smart City dan
+                          SPBE Malang Alami Peningkatan Pesat</a>
+                      </h2>
+                      <div class="post-meta">
+                        <span class="post-author"><img alt="Admin" class="post-author-avatar"
+                            src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgibrrbd8cyImsqWJQvFyi_O_Q8bGdBoeG5dCUOGyG5hgA052s4Tz507ri3lmrhj8cZVvhI91qW9I498hFJAkCUPZjKOkcmrw_BVApQYbM9nOBrRmxCmWHbeJykDXrsOU/w20/android-chrome-192x192.png"><a
+                            href="https://www.blogger.com/profile/14418033569033797261" target="noopener"
+                            title="Admin">Admin</a></span>
+                        <span class="post-date published" datetime="2024-01-18T08:50:00+08:00">Januari 18, 2024</span>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+                <article class="blog-post hentry halaman-indeks">
+                  <div class="post-image-wrap">
+                    <span class="post-tag halaman-indeks-tag">
+                      <a href="https://spbe.malangkab.go.id/search/label/Manajemen%20Risiko%20SPBE?&amp;max-results=6"
+                        rel="tag" title="Manajemen Risiko SPBE">Manajemen Risiko SPBE</a>
+                      <a href="https://spbe.malangkab.go.id/search/label/Peningkatan%20SDM%20TIK?&amp;max-results=6"
+                        rel="tag" title="Peningkatan SDM TIK">Peningkatan SDM TIK</a>
+                    </span>
+                    <a class="post-image-link"
+                      href="/spbemalang/informasi/sosialisasi_spbe">
+                      <img alt="Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE"
+                        class="sizeimg"
+                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCgHjjEABgTX3Unqca_x_FenmPCqafwX3UkSyhKbDtSg4gItC5RW-5dzSmHzVEnS9rRhCuxan0F1PHt3g5JQc2KuwUP9AcV1EOtId1DhwRkPta-d_iSyUDCRPp6jDXKpkpMBhoK78cZPJ9Byj_VEfZoSt9fIfi-pXHjPdcFZnQYMkxDgsga2vE1YdWwGk/w680/MAL_7956.JPG"
+                        title="Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE">
+                    </a>
+                  </div>
+                  <div class="post-info">
+                    <div class="homebox">
+                      <h2 class="post-title">
+                        <a href="/spbemalang/informasi/seminar_spbe"
+                          title="Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE">Sosialisasi
+                          Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE</a>
+                      </h2>
+                      <div class="post-meta">
+                        <span class="post-author"><img alt="Admin" class="post-author-avatar"
+                            src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgibrrbd8cyImsqWJQvFyi_O_Q8bGdBoeG5dCUOGyG5hgA052s4Tz507ri3lmrhj8cZVvhI91qW9I498hFJAkCUPZjKOkcmrw_BVApQYbM9nOBrRmxCmWHbeJykDXrsOU/w20/android-chrome-192x192.png"><a
+                            href="https://www.blogger.com/profile/14418033569033797261" target="noopener"
+                            title="Admin">Admin</a></span>
+                        <span class="post-date published" datetime="2023-11-25T14:16:00+08:00">November 25, 2023</span>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+                <article class="blog-post hentry halaman-indeks">
+                  <div class="post-image-wrap">
+                    <span class="post-tag halaman-indeks-tag">
+                      <a href="https://spbe.malangkab.go.id/search/label/Layanan%20SPBE?&amp;max-results=6"
+                        rel="tag" title="Layanan SPBE">Layanan SPBE</a>
+                    </span>
+                    <a class="post-image-link"
+                      href="/spbemalang/informasi/aplikasi_spbe">
+                      <img alt="Aplikasi Malang Pintar Raih Penghargaan" class="sizeimg"
+                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoI-IX_u-W8Hkdlok0R-ydBfrq5pq3oguYqbO0RTvUT4hsNY-0yFOta_fH2GQDVVrF8sSCoSHhs6kclRSJb_MGmiL9rj3S-nB3lyeGLHZhN63Oh1TtiHSpqEjCnrhuGa5FcmyzmJKh1pb7NCF9D0oXtgEW8dWx-pv6aVnMdw9vLl-dzHRabWhExVzKV5OY/w680/372103623_213901954712770_2647714261297021375_n.heic"
+                        title="Aplikasi Malang Pintar Raih Penghargaan">
+                    </a>
+                  </div>
+                  <div class="post-info">
+                    <div class="homebox">
+                      <h2 class="post-title">
+                        <a href="/spbemalang/informasi/aplikasi_spbe"
+                          title="Aplikasi Malang Pintar Raih Penghargaan">Aplikasi Malang Pintar Raih
+                          Penghargaan</a>
+                      </h2>
+                      <div class="post-meta">
+                        <span class="post-author"><img alt="Admin" class="post-author-avatar"
+                            src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgibrrbd8cyImsqWJQvFyi_O_Q8bGdBoeG5dCUOGyG5hgA052s4Tz507ri3lmrhj8cZVvhI91qW9I498hFJAkCUPZjKOkcmrw_BVApQYbM9nOBrRmxCmWHbeJykDXrsOU/w20/android-chrome-192x192.png"><a
+                            href="https://www.blogger.com/profile/14418033569033797261" target="noopener"
+                            title="Admin">Admin</a></span>
+                        <span class="post-date published" datetime="2023-09-01T08:00:00+08:00">September 01, 2023</span>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+                <article class="blog-post hentry halaman-indeks">
+                  <div class="post-image-wrap">
+                    <span class="post-tag halaman-indeks-tag">
+                      <a href="https://spbe.malangkab.go.id/search/label/Peningkatan%20SDM%20TIK?&amp;max-results=6"
+                        rel="tag" title="Peningkatan SDM TIK">Peningkatan SDM TIK</a>
+                    </span>
+                    <a class="post-image-link"
+                      href="/spbemalang/informasi/seminar_spbe">
+                      <img
+                        alt="Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang"
+                        class="sizeimg"
+                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq6Rdlik8ZjhRktytRB5R2Paae9G7M16rbxXOTCywOPcgvK67xsf0j-hdBV60T_yFNPEgbS26fGEjyfsIjUkLRsNWWNAny3A2c4_FGicSrevf9vAxpnwGeRTjTKxYtq17C9SlOqSuWok5uq7qkRM73YsoxJWQmprHLdINAlJQj-DjyOHZvSbioi8VuKwwL/w680/357483852_1543097882886190_6450020503380630934_n.jpg"
+                        title="Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang">
+                    </a>
+                  </div>
+                  <div class="post-info">
+                    <div class="homebox">
+                      <h2 class="post-title">
+                        <a href="/spbemalang/informasi/sosialisasi_spbe"
+                          title="Seminar Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang">Seminar
+                          Implementasi Sistem Pemerintahan Berbasis Elektronik (SPBE) di lingkungan Pemerintah Kabupaten Malang</a>
+                      </h2>
+                      <div class="post-meta">
+                        <span class="post-author"><img alt="Admin" class="post-author-avatar"
+                            src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgibrrbd8cyImsqWJQvFyi_O_Q8bGdBoeG5dCUOGyG5hgA052s4Tz507ri3lmrhj8cZVvhI91qW9I498hFJAkCUPZjKOkcmrw_BVApQYbM9nOBrRmxCmWHbeJykDXrsOU/w20/android-chrome-192x192.png"><a
+                            href="https://www.blogger.com/profile/14418033569033797261" target="noopener"
+                            title="Admin">Admin</a></span>
+                        <span class="post-date published" datetime="2023-07-06T19:56:00+08:00">Juli 06, 2023</span>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+                <article class="blog-post hentry halaman-indeks">
+                  <div class="post-image-wrap">
+                    <span class="post-tag halaman-indeks-tag">
+                      <a href="https://spbe.malangkab.go.id/search/label/Layanan%20SPBE?&amp;max-results=6"
+                        rel="tag" title="Layanan SPBE">Layanan SPBE</a>
+                    </span>
+                    <a class="post-image-link"
+                      href="https://spbe.malangkab.go.id/2023/05/launching-dan-sosialisasi-aplikasi.html">
+                      <img alt="Launching dan Sosialisasi Aplikasi Parak Acil Online" class="sizeimg"
+                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHdJLq03C6cCpO3xrPt_sC5BKFX80zxuLp2BhQGK6DPPzmjGKXhK_6rxMcm8tKeDJCZIPA6U0sWm7qgmAWNoZDgaXq1_iUwGAyJSHi9ws0Zee8rwvEadFWDULvY29vah_fz3puLH-T0mk2SaJ4HwVX2fERQ9fEOZInTwPs_OgBMPa08es9uwQlQnKlXw/w680/345563389_791672102460317_6556629839440728014_n.webp"
+                        title="Launching dan Sosialisasi Aplikasi Parak Acil Online">
+                    </a>
+                  </div>
+                  <div class="post-info">
+                    <div class="homebox">
+                      <h2 class="post-title">
+                        <a href="/spbemalang/informasi/aplikasi_spbe"
+                          title="Launching dan Sosialisasi Aplikasi Parak Acil Online">Launching dan Sosialisasi
+                          Aplikasi Parak Acil Online</a>
+                      </h2>
+                      <div class="post-meta">
+                        <span class="post-author"><img alt="Admin" class="post-author-avatar"
+                            src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgibrrbd8cyImsqWJQvFyi_O_Q8bGdBoeG5dCUOGyG5hgA052s4Tz507ri3lmrhj8cZVvhI91qW9I498hFJAkCUPZjKOkcmrw_BVApQYbM9nOBrRmxCmWHbeJykDXrsOU/w20/android-chrome-192x192.png"><a
+                            href="https://www.blogger.com/profile/14418033569033797261" target="noopener"
+                            title="Admin">Admin</a></span>
+                        <span class="post-date published" datetime="2023-05-10T15:30:00+08:00">Mei 10, 2023</span>
+                      </div>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <div class="blog-pager container" id="blog-pager">
+              <a class="blog-pager-older-link thm-btn thm-bg"
+                data-load="https://spbe.malangkab.go.id/search?updated-max=2023-05-10T15:30:00%2B08:00&amp;max-results=6&amp;start=6&amp;by-date=false"
+                href="javascript:;" id="load-grid">Loadmore</a>
+              <span class="loading"><span class="loader"></span></span>
+              <span class="endmore">End</span>
+            </div>
+          </div>
+        </div>
+        <script src="https://raw.githack.com/ililio/i/main/i.js" type="text/javascript"></script>
+        <div class="related-posts-widget" id="related-posts-widget">
+          <div class="notex"></div>
+          <div class="relatedPost section" id="related-post-set-desktop"
+            name="Related Post Setting (Desktop &amp; Tablet)">
+            <div class="widget HTML" data-version="2" id="HTML9">
+              <div class="widget-title">
+                <h3 class="title">
+                  Related Posts
+                </h3>
+              </div>
+              <div class="widget-content">
+                <script>
+                  var mql = window.matchMedia('screen and (min-width: 479px)'); if (mql.matches) {
+                    var relatedPostConfig = {
+                      homePage: "https://spbe.malangkab.go.id/", widgetTitle: "<h4>Related Posts</h4>", titleLength: "auto", thumbnailSize: 322, noImage: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC", containerId: "related-post", newTabLink: false, moreText: "Read More", widgetStyle: 3,
+                      numPosts: 3,
+                      summaryLength: 101, callBack: function () { }
+                    }
+                  }
+                </script>
+              </div>
+            </div>
+          </div>
+          <div class="relatedPost section" id="related-post-set-mobile" name="Related Post Setting (Mobile)">
+            <div class="widget HTML" data-version="2" id="HTML8">
+              <div class="widget-title">
+                <h3 class="title">
+                  Related Posts
+                </h3>
+              </div>
+              <div class="widget-content">
+                <script>
+                  var mql = window.matchMedia('screen and (max-width: 480px)'); if (mql.matches) {
+                    var relatedPostConfig = {
+                      homePage: "https://spbe.malangkab.go.id/", widgetTitle: "<h4>Related Posts</h4>", titleLength: "auto", thumbnailSize: 322, noImage: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAA3NCSVQICAjb4U/gAAAADElEQVQImWOor68HAAL+AX7vOF2TAAAAAElFTkSuQmCC", containerId: "related-post", newTabLink: false, moreText: "Read More", widgetStyle: 1,
+                      numPosts: 5,
+                      summaryLength: 60, callBack: function () { }
+                    }
+                  }
+                </script>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+      <!-- Sidebar Wrapper -->
+      <aside class="sidebar-wrapper">
+        <div class="sidebar section" id="sidebar">
+          <div class="widget BlogArchive" data-version="2" id="BlogArchive1">
+            <div class="widget-title">
+              <h3 class="title">
+                Arsip
+              </h3>
+            </div>
+            <div class="widget-content">
+              <div id="ArchiveList">
+                <div id="BlogArchive1_ArchiveList">
+                  <ul class="flat">
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2022/01/">Januari<span class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2022/02/">Februari<span
+                          class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2022/05/">Mei<span class="post-count">2</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2022/07/">Juli<span class="post-count">5</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2022/08/">Agustus<span class="post-count">6</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2022/10/">Oktober<span class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2023/02/">Februari<span
+                          class="post-count">6</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2023/03/">Maret<span class="post-count">2</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2023/05/">Mei<span class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2023/07/">Juli<span class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2023/09/">September<span
+                          class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2023/11/">November<span
+                          class="post-count">1</span></a>
+                    </li>
+                    <li class="archivedate">
+                      <a href="https://spbe.malangkab.go.id/2024/01/">Januari<span class="post-count">2</span></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="widget PopularPosts" data-version="2" id="PopularPosts1">
+            <div class="widget-title">
+              <h3 class="title">
+                Popular Post
+              </h3>
+            </div>
+            <div class="widget-content">
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="/spbemalang/informasi/launching_spbe">
+                    <img alt="Launching dan Sosialisasi Aplikasi Parak Acil Online" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHdJLq03C6cCpO3xrPt_sC5BKFX80zxuLp2BhQGK6DPPzmjGKXhK_6rxMcm8tKeDJCZIPA6U0sWm7qgmAWNoZDgaXq1_iUwGAyJSHi9ws0Zee8rwvEadFWDULvY29vah_fz3puLH-T0mk2SaJ4HwVX2fERQ9fEOZInTwPs_OgBMPa08es9uwQlQnKlXw/w680/345563389_791672102460317_6556629839440728014_n.webp"
+                      title="Launching dan Sosialisasi Aplikasi Parak Acil Online">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="/spbemalang/informasi/launching_spbe">Launching
+                        dan Sosialisasi Aplikasi Parak Acil Online</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2023-05-10T15:30:00+08:00">Mei 10, 2023</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2023/02/sosialisasi-dan-evaluasi-aplikasi.html">
+                    <img alt="Sosialisasi dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTM4EM3UedNqy80xKl59iUf_cMWBCvlZ7YpKV-wg2vtyYmJjk7-FtMrDqXApO0DbSm4qV9phWV3a3X1Jxe06ptl99GF-KfJQJQ6z_DSIUCyYoz4C48dSK7NUitfC6DvG5ruYw1vn2nZ4lBgjDP8KT_opV50jqn8J2Yw9lxTSP1-C7tvtsUS9LYlv46A/w680/WhatsApp%20Image%202023-02-16%20at%2009.07.37.jpeg"
+                      title="Sosialisasi dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2023/02/sosialisasi-dan-evaluasi-aplikasi.html">Sosialisasi
+                        dan Evaluasi Aplikasi Sipensekdik Dinas Pendidikan</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2023-02-16T14:40:00+08:00">Februari 16, 2023</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2023/02/indeks-spbe-2022-pemerintah-kota.html">
+                    <img alt="Indeks SPBE 2022 Pemerintah Kabupaten Malang" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7qnLcQKgjz2o786mcvw79VA8_GzfLydj_TFd5m4lHVmBRUVnyq_Pm0b__ZDTzE_lPgDRU8ueNe2dTy8FsAejJQi1sJNKfFSfiDzWl4sUsIyJxLLB1gkdkGhIFEZTQXq_XtECBp4By9deWn8I1inMO8Q4fsjYQxlYIr7cO2HeTHCBFr7wBs73LYFGVcrs/w680/2022-1.png"
+                      title="Indeks SPBE 2022 Pemerintah Kabupaten Malang">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2023/02/indeks-spbe-2022-pemerintah-kota.html">Indeks
+                        SPBE 2022 Pemerintah Kabupaten Malang</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2023-02-03T16:57:00+08:00">Februari 03, 2023</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2022/02/hasil-evaluasi-spbe-21.html">
+                    <img alt="Indeks SPBE 2021 Pemerintah Kabupaten Malang" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GDWjVVMKb7ls3IX-kVOb9KSsXpZhjqakN4LAzPZWryEk1drzlZ48jyQkLvnYDgZ20ugsZSYkpiFWdUYIIeNYT8TwEoAhc-TOE83ymoHGgr8rvG71-ZOlVgTkS5wZjsn3xM0ZCgxJFQODD01GJrt941cUBsbS-J0ftMFI4OAX8zYByNKMxEJparD9AQ/w680/HasilSPBE2021.png"
+                      title="Indeks SPBE 2021 Pemerintah Kabupaten Malang">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2022/02/hasil-evaluasi-spbe-21.html">Indeks SPBE 2021
+                        Pemerintah Kabupaten Malang</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2022-02-24T17:50:00+08:00">Februari 24, 2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2022/07/sosialisasi-aplikasi-presensi-dan-tpp.html">
+                    <img alt="Sosialisasi Aplikasi Presensi dan TPP di Kabupaten Malang" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_xxkXzyhd9IkpxfXhMzrEzg2A_3pLBlGfImLPx2pP3VpKoF5XI-q7iQk1IUdBPKuEiU0eXJsgZBa-bIqipAmROQgKNVDqVSwqwPmTxCVH-O3PledgcTCB6-Ah1XQNvZkrOxFhhdjx7M9dBFD7AQZYfiQBlw9VpBkb9a23skZ1bJeEwwoyVMWS7kmKg/w680/IMG-20220718-WA0008.jpg"
+                      title="Sosialisasi Aplikasi Presensi dan TPP di Kabupaten Malang">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2022/07/sosialisasi-aplikasi-presensi-dan-tpp.html">Sosialisasi
+                        Aplikasi Presensi dan TPP di Kabupaten Malang</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2022-07-18T15:30:00+08:00">Juli 18, 2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html">
+                    <img alt="Indeks SPBE 2023 Pemerintah Kabupaten Malang" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png"
+                      title="Indeks SPBE 2023 Pemerintah Kabupaten Malang">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2024/01/indeks-spbe-2023-pemerintah-kota.html">Indeks
+                        SPBE 2023 Pemerintah Kabupaten Malang</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2024-01-27T11:40:00+08:00">Januari 27, 2024</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2022/08/rapat-perkembangan-aplikasi-parak-acil.html">
+                    <img alt="Rapat Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWKZAqye_yyA9bWMjAGUALsderTOGz8dbpQGP3XHsjn31AyTXSWv2JPdeewnIqLfQ_7tLapZfEgGHkQ3VEqTGPKulELdq-ePGERlxw-z5PmAzlTWRS6uQSlzgxoQwkHtTI4B8I9A2p8IXI0lO4FZ_c0APdJjXHKMfq9H1ct0-nnH72OIDVYu-PoxCOw/w680/WhatsApp%20Image%202022-08-23%20at%2010.30.21%20AM.jpeg"
+                      title="Rapat Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2022/08/rapat-perkembangan-aplikasi-parak-acil.html">Rapat
+                        Perkembangan Aplikasi Parak Acil Online - 23 Agustus 2022</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2022-08-24T08:30:00+08:00">Agustus 24, 2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2022/01/hasil-evaluasi-spbe-19.html">
+                    <img alt="Indeks SPBE 2019 Pemerintah Kabupaten Malang" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBHEcZCQGIHNXNkmQvikXti0zOgCs275HT3ttFPoAeXXJwoj5UX8-0xlXEeKLTywswYX-xVOPKb2NQoTwJU6CmpqaA4I6GPQQO93dG5qGK-k_4h6RzjY3uVRJfDH8hKkLkGZ3GKKE-1DEJSqAmQiEagSQ8ZnzI2NfHXH8ylSzctfmWJ_v-5DHGI9pyL8AE/w680/2019-1.png"
+                      title="Indeks SPBE 2019 Pemerintah Kabupaten Malang">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2022/01/hasil-evaluasi-spbe-19.html">Indeks SPBE 2019
+                        Pemerintah Kabupaten Malang</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2022-01-24T17:12:00+08:00">Januari 24, 2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2022/08/progres-pembuatan-aplikasi-laporan-rfk.html">
+                    <img alt="Progres Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJmN_rXmDUbxUa6xBwQ0A2wrHooCa_2hbytEC4DJUQdODA-GjRXGgwoljt6uB2CFsewOLw7LYGYFyrNXQVcwIZxH3zaqC-93Mr77SkhhVtb1Q0297-VheHj1FoRtnp-il_RKgDB8_j-xrMzn_7It8Ha9XRrkCnVITCJNXvRojpa0w4hDXKwOrsbpnD0Q/w680/WhatsApp%20Image%202022-08-03%20at%209.28.25%20AM.jpeg"
+                      title="Progres Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2022/08/progres-pembuatan-aplikasi-laporan-rfk.html">Progres
+                        Pembuatan Aplikasi Laporan RFK Dinas Pendidikan - 03 Agustus 2022</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2022-08-04T10:43:00+08:00">Agustus 04, 2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="post">
+                <div class="post-content">
+                  <a class="post-image-link"
+                    href="https://spbe.malangkab.go.id/2022/05/penerapan-spbe-dalam-mendukung.html">
+                    <img alt="Penerapan SPBE Dalam Mendukung Transformasi Digital di Pemerintahan" class="sizeimg"
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6NNt8I0tDfGZmgwngdKBq3UAZWv8yp6BzcoOpdRjpMk-SmhUtCdEDiai-_6vvpXX_EWt25xUwVsylHvKOOW5XDzOd4o-LGmKfAKj7O9b7lTjfnDcENBTyV3Imtlz8K2Hw91lwlIMwyilObqUpt5b3XA12QaYTA-Zu_yOETBaNWQkWn6IMMb6JmK8/w680/Penerapan-SPBE-Transformasi-Digital-20220530.jpg"
+                      title="Penerapan SPBE Dalam Mendukung Transformasi Digital di Pemerintahan">
+                  </a>
+                  <div class="post-info">
+                    <h2 class="post-title">
+                      <a href="https://spbe.malangkab.go.id/2022/05/penerapan-spbe-dalam-mendukung.html">Penerapan
+                        SPBE Dalam Mendukung Transformasi Digital di Pemerintahan</a>
+                    </h2>
+                    <div class="post-meta">
+                      <span class="post-date published" datetime="2022-05-30T13:29:00+08:00">Mei 30, 2022</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+  <div class="clr"></div>
+</div>
