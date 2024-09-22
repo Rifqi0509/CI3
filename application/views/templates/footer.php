@@ -78,19 +78,19 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li>
-                                            <a href="/spbemalang/domain/kebijakanspbe">Kebijakan SPBE
+                                            <a href="<?= base_url('domain/kebijakanspbe'); ?>">Kebijakan SPBE
 </a>
                                         </li>
                                         <li>
-                                            <a href="/spbemalang/domain/tata_kelola">Tata Kelola SPBE
+                                            <a href="<?= base_url('domain/tata_kelola'); ?>">Tata Kelola SPBE
 </a>
                                         </li>
                                         <li>
-                                            <a href="/spbemalang/domain/manajemen_spbe">Manajemen SPBE
+                                            <a href="<?= base_url('domain/manajemen_spbe'); ?>">Manajemen SPBE
 </a>
                                         </li>
                                         <li>
-                                            <a href="/spbemalang/domain/layanan_spbe">Layanan SPBE
+                                            <a href="<?= base_url('domain/layanan_spbe'); ?>">Layanan SPBE
 </a>
                                         </li>
                                     </ul>
@@ -106,13 +106,13 @@
                                 <div class='widget-content'>
                                     <ul>
                                         <li>
-                                            <a href="/spbemalang/spbe/regulasi_spbe">Regulasi</a>
+                                            <a href="<?= base_url('spbe/regulasi_spbe'); ?>">Regulasi</a>
                                         </li>
                                         <li>
-                                            <a href="/spbemalang/spbe/sop_spbe">SOP</a>
+                                            <a href="<?= base_url('spbe/sop_spbe'); ?>">SOP</a>
                                         </li>
                                         <li>
-                                            <a href="/spbemalang/spbe/agenda_spbe">Agenda</a>
+                                            <a href="<?= base_url('spbe/agenda_spbe'); ?>">Agenda</a>
                                         </li>
                                         <li>
                                             <a href="#">FAQ</a>

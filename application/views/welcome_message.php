@@ -727,12 +727,62 @@
                             </div>
                             <div class='widget-content'>
                                 <span data-type="carousel" data-no="5"></span>
+                                <div class="main-carousel owl-carousel owl-theme owl-loaded owl-responsive-1000">
+    <div class="owl-stage-outer">
+        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: 0.8s; width: 100%;">
+            <div class="owl-item" style="width: 380px; margin-right: 30px;">
+                <li class="carousel-item">
+                    <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center;background-size: cover">
+                        <span class="carousel-overlay"></span>
+                    </a>
+                    <div class="carousel-tag"><a href="#">Category 1</a></div>
+                    <div class="carousel-content text-center">
+                        <span class="recent-date">Jan 01, 2024</span>
+                        <span class="recent-read"><a href="#">Read Article</a></span>
+                        <h2 class="recent-title"><a href="#">Dummy Title 1</a></h2>
+                    </div>
+                    <span class="recent-author text-center">Posted By: Admin</span>
+                    <div class="clr"></div>
+                </li>
+            </div>
+            <div class="owl-item" style="width: 380px; margin-right: 30px;">
+                <li class="carousel-item">
+                    <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center;background-size: cover">
+                        <span class="carousel-overlay"></span>
+                    </a>
+                    <div class="carousel-tag"><a href="#">Category 2</a></div>
+                    <div class="carousel-content text-center">
+                        <span class="recent-date">Jan 02, 2024</span>
+                        <span class="recent-read"><a href="#">Read Article</a></span>
+                        <h2 class="recent-title"><a href="#">Dummy Title 2</a></h2>
+                    </div>
+                    <span class="recent-author text-center">Posted By: Admin</span>
+                    <div class="clr"></div>
+                </li>
+            </div>
+           
+            <!-- Tambahkan lebih banyak item dummy jika perlu -->
+        </div>
+    </div>
+    <div class="owl-controls">
+        <div class="owl-nav">
+            <div class="owl-prev" style=""></div>
+            <div class="owl-next" style=""></div>
+        </div>
+        <div class="owl-dots" style="display: none;">
+            <div class="owl-dot active"><span></span></div>
+            <div class="owl-dot"><span></span></div>
+            <div class="owl-dot"><span></span></div>
+        </div>
+    </div>
+</div>
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class='view-all w-100 text-center'>
-                    <a class='thm-btn thm-bg' href='//spbemalang/domain/?&max-results=6' title=''>
+                    <a class='thm-btn thm-bg' href="<?= base_url('domain/informasi/?&max-results=6');?>" title=''>
                         Informasi & Lainnya<i class='fal fa-long-arrow-right'></i>
                     </a>
                 </div>

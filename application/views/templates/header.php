@@ -138,25 +138,25 @@
                                             <div class='widget LinkList' data-version='2' id='LinkList113'>
                                                 <ul id='main-menu-nav' role='menubar'>
                                                     <li>
-                                                        <a href='/spbemalang' role='menuitem'>Beranda</a>
+                                                        <a href="<?= base_url('/') ?>" role='menuitem'>Beranda</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>Domain SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/domain/kebijakanspbe' role='menuitem'>_Kebijakan SPBE</a>
+                                                    <a href="<?= base_url('domain/kebijakanspbe'); ?>" role="menuitem">_Kebijakan SPBE</a>
                                                     </li>
                                                     <li>
-                                                    <a href="/spbemalang/domain/tata_kelola" role="menuitem">_Tata Kelola SPBE</a>
+                                                    <a href="<?= base_url('domain/tata_kelola'); ?>" role="menuitem">_Tata Kelola SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/domain/manajemen_spbe' role='menuitem'>_Manajemen SPBE</a>
+                                                        <a href="<?= base_url('domain/manajemen_spbe'); ?>" role='menuitem'>_Manajemen SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/domain/layanan_spbe' role='menuitem'>_Layanan SPBE</a>
+                                                        <a href="<?= base_url('domain/layanan_spbe'); ?>" role='menuitem'>_Layanan SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/domain/informasi' role='menuitem'>Informasi Terbaru</a>
+                                                        <a href="<?= base_url('domain/informasi'); ?>" role='menuitem'>Informasi Terbaru</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>Detail</a>
@@ -165,22 +165,22 @@
                                                         <a href='#' role='menuitem'>_SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/spbe/regulasi_spbe' role='menuitem'>__Regulasi</a>
+                                                        <a href="<?= base_url('spbe/regulasi_spbe'); ?>" role='menuitem'>__Regulasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/spbe/sop_spbe' role='menuitem'>__SOP</a>
+                                                        <a href="<?= base_url('spbe/sop_spbe'); ?>" role='menuitem'>__SOP</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/spbe/peta_rencana_spbe' role='menuitem'>__Peta Rencana</a>
+                                                        <a href="<?= base_url('spbe/peta_rencana_spbe'); ?>" role='menuitem'>__Peta Rencana</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/spbe/indikator_evaluasi_spbe' role='menuitem'>__Indikator Evaluasi</a>
+                                                        <a href="<?= base_url('spbe/indikator_evaluasi_spbe'); ?>" role='menuitem'>__Indikator Evaluasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/spbe/paparan_spbe' role='menuitem'>__Paparan</a>
+                                                        <a href="<?= base_url('spbe/paparan_spbe'); ?>" role='menuitem'>__Paparan</a>
                                                     </li>
                                                     <li>
-                                                        <a href='/spbemalang/spbe/agenda_spbe' role='menuitem'>__Agenda</a>
+                                                        <a href="<?= base_url('spbe/agenda_spbe'); ?>" role='menuitem'>__Agenda</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>_Aplikasi</a>
@@ -201,7 +201,7 @@
                                                         <a href='https://audit-tools-spbe.brin.go.id/webaudit/' role='menuitem'>__Audit Tools</a>
                                                     </li>
                                                     <li class='get-quote'>
-                                                        <a href='/spbemalang/domain/apaitu_spbe'>
+                                                        <a href="<?= base_url('domain/apaitu_spbe'); ?>">
                                                             <i class='far fa-comments'></i>
                                                             <span>Apa itu SPBE ?</span>
                                                             <i class='fal fa-long-arrow-right'></i>
