@@ -147,71 +147,39 @@
                     }
                 })
             }),
-            $(".recent-boxes .HTML .widget-content").each(function() {
-                $(this).find("span").attr("data-label");
-                var e = $(this).find("span").attr("data-no")
-                  , v = ($(this).prev("h3").text(),
-                $(this).parent().attr("id"));
-                $(this).find("span").attr("data-type").match("carousel") && $.ajax({
-                    url: "/feeds/posts/default/?alt=json-in-script&max-results=" + e,
-                    type: "get",
-                    dataType: "jsonp",
-                    success: function(e) {
-                        for (var t = "", a = '<div class="main-carousel">', s = 0; s < e.feed.entry.length; s++) {
-                            for (var n = 0; n < e.feed.entry[s].link.length; n++)
-                                if ("alternate" == e.feed.entry[s].link[n].rel) {
-                                    t = e.feed.entry[s].link[n].href;
-                                    break
-                                }
-                            var r, i = e.feed.entry[s].title.$t, o = e.feed.entry[s].category[0].term, l = e.feed.entry[s].author[0].name.$t, c = e.feed.entry[s].published.$t, d = c.substring(0, 4), u = c.substring(5, 7), p = c.substring(8, 10), m = month_format[parseInt(u, 10)] + " " + p + ", " + d, f = e.feed.entry[s].content.$t, h = $("<div>").html(f);
-                            r = -1 < f.indexOf("//www.youtube.com/embed/") ? e.feed.entry[s].media$thumbnail.url : -1 < f.indexOf("<img") ? h.find("img:first").attr("src") : no_image,
-                            a += '<li class="carousel-item"><a class="box-image" href="' + t + '" style="background:url(' + r + ') no-repeat center center;background-size: cover"><span class="carousel-overlay"/></a><div class="carousel-tag"><a href="/search/label/' + o + '">' + o + '</a></div><div class="carousel-content text-center"><span class="recent-date">' + m + '</span><span class="recent-read"><a href="' + t + '">Read Article</a></span> <h2 class="recent-title"><a href="' + t + '">' + i + '</a></h2></div><span class="recent-author text-center">Posted By: ' + l + '</span><div class="clr"/></li>'
+            $(document).ready(function() {
+                // Inisialisasi Owl Carousel
+                $(".main-carousel").owlCarousel({
+                    items: 3, // jumlah item yang ditampilkan
+                    smartSpeed: 550,
+                    nav: true,
+                    navText: ["<div class='owl-prev'></div>", "<div class='owl-next'></div>"],
+                    loop: true,
+                    margin: 30,
+                    autoplay: true,
+                    autoplayTimeout: 1000,
+                    autoplaySpeed: 800,
+                    dots: false,
+                    responsiveClass: true,
+                    responsive: {
+                        0: {
+                            items: 1,
+                            dots: true,
+                            nav: false
+                        },
+                        600: {
+                            items: 2,
+                            dots: true,
+                            nav: false
+                        },
+                        1000: {
+                            items: 3,
+                            dots: false,
+                            loop: true
                         }
-                        a += "</div>",
-                        $(".recent-boxes .HTML .widget-content").each(function() {
-                            $(this).parent().attr("id") == v && ($(this).html(a),
-                            $(this).parent().addClass("carousel"),
-                            $(this).prev("h3").wrap('<div class="box-title"></div>'),
-                            $(".main-carousel").owlCarousel({
-                                items: 3,
-                                smartSpeed: 550,
-                                nav: !0,
-                                navText: ["", ""],
-                                loop: !0,
-                                margin: 30,
-                                autoplay: !0,
-                                autoplaySpeed: 800,
-                                dots: !1,
-                                responsiveClass: !0,
-                                responsive: {
-                                    0: {
-                                        items: 1,
-                                        dots: !0,
-                                        nav: !1
-                                    },
-                                    600: {
-                                        items: 2,
-                                        dots: !0,
-                                        nav: !1
-                                    },
-                                    1e3: {
-                                        items: 3,
-                                        dots: !1,
-                                        loop: !1
-                                    }
-                                }
-                            }),
-                            $(this).find(".box-image").each(function() {
-                                $(this).attr("style", function(e, t) {
-                                    return t.replace("/default.jpg", "/mqdefault.jpg")
-                                }).attr("style", function(e, t) {
-                                    return t.replace("s72-c", "s1600")
-                                })
-                            }))
-                        })
                     }
-                })
-            });
+                });
+            });    
 
             "use strict";
             $(function() {

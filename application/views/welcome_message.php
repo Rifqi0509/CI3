@@ -718,75 +718,101 @@
         <div class='clr'></div>
         <div class='box00 padding'>
             <div id='outer-wrapper'>
-                <div class='recent-boxes'>
-                    <span class='orange'>Berita Terkait</span>
-                    <div class='RecentNew section' id='RecentNew' name='Recent Slider'>
-                        <div class='widget HTML' data-version='2' id='HTML4'>
-                            <div class='widget-title'>
-                                <h3 class='title'>Informasi Terbaru</h3>
-                            </div>
-                            <div class='widget-content'>
-                                <span data-type="carousel" data-no="5"></span>
-                                <div class="main-carousel owl-carousel owl-theme owl-loaded owl-responsive-1000">
-    <div class="owl-stage-outer">
-        <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: 0.8s; width: 100%;">
-            <div class="owl-item" style="width: 380px; margin-right: 30px;">
-                <li class="carousel-item">
-                    <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center;background-size: cover">
-                        <span class="carousel-overlay"></span>
-                    </a>
-                    <div class="carousel-tag"><a href="#">Category 1</a></div>
-                    <div class="carousel-content text-center">
-                        <span class="recent-date">Jan 01, 2024</span>
-                        <span class="recent-read"><a href="#">Read Article</a></span>
-                        <h2 class="recent-title"><a href="#">Dummy Title 1</a></h2>
-                    </div>
-                    <span class="recent-author text-center">Posted By: Admin</span>
-                    <div class="clr"></div>
-                </li>
+            <div class="recent-boxes">
+    <span class="orange">Berita Terkait</span>
+    <div class="RecentNew section" id="RecentNew" name="Recent Slider">
+        <div class="widget HTML carousel" data-version="2" id="HTML4">
+            <div class="widget-title">
+                <h3 class="title">Informasi Terbaru</h3>
             </div>
-            <div class="owl-item" style="width: 380px; margin-right: 30px;">
-                <li class="carousel-item">
-                    <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center;background-size: cover">
-                        <span class="carousel-overlay"></span>
-                    </a>
-                    <div class="carousel-tag"><a href="#">Category 2</a></div>
-                    <div class="carousel-content text-center">
-                        <span class="recent-date">Jan 02, 2024</span>
-                        <span class="recent-read"><a href="#">Read Article</a></span>
-                        <h2 class="recent-title"><a href="#">Dummy Title 2</a></h2>
-                    </div>
-                    <span class="recent-author text-center">Posted By: Admin</span>
-                    <div class="clr"></div>
-                </li>
-            </div>
-           
-            <!-- Tambahkan lebih banyak item dummy jika perlu -->
+            <div class="widget-content">
+            <div class="main-carousel owl-carousel owl-theme owl-responsive-1000">
+    <li class="carousel-item">
+        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
+            <span class="carousel-overlay"></span>
+        </a>
+        <div class="carousel-tag"><a href="#">Kategori 1</a></div>
+        <div class="carousel-content text-center">
+            <span class="recent-date">Jan 01, 2024</span>
+            <span class="recent-read"><a href="#">Read Article</a></span>
+            <h2 class="recent-title"><a href="#">Judul Dummy 1</a></h2>
         </div>
-    </div>
-    <div class="owl-controls">
-        <div class="owl-nav">
-            <div class="owl-prev" style=""></div>
-            <div class="owl-next" style=""></div>
+        <span class="recent-author text-center">Posted By: Admin</span>
+        <div class="clr"></div>
+    </li>
+    <li class="carousel-item">
+        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
+            <span class="carousel-overlay"></span>
+        </a>
+        <div class="carousel-tag"><a href="#">Kategori 2</a></div>
+        <div class="carousel-content text-center">
+            <span class="recent-date">Jan 02, 2024</span>
+            <span class="recent-read"><a href="#">Read Article</a></span>
+            <h2 class="recent-title"><a href="#">Judul Dummy 2</a></h2>
         </div>
-        <div class="owl-dots" style="display: none;">
-            <div class="owl-dot active"><span></span></div>
-            <div class="owl-dot"><span></span></div>
-            <div class="owl-dot"><span></span></div>
+        <span class="recent-author text-center">Posted By: Admin</span>
+        <div class="clr"></div>
+    </li>
+    <li class="carousel-item">
+        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
+            <span class="carousel-overlay"></span>
+        </a>
+        <div class="carousel-tag"><a href="#">Kategori 3</a></div>
+        <div class="carousel-content text-center">
+            <span class="recent-date">Jan 03, 2024</span>
+            <span class="recent-read"><a href="#">Read Article</a></span>
+            <h2 class="recent-title"><a href="#">Judul Dummy 3</a></h2>
         </div>
-    </div>
+        <span class="recent-author text-center">Posted By: Admin</span>
+        <div class="clr"></div>
+    </li>
+    <li class="carousel-item">
+        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
+            <span class="carousel-overlay"></span>
+        </a>
+        <div class="carousel-tag"><a href="#">Kategori 4</a></div>
+        <div class="carousel-content text-center">
+            <span class="recent-date">Jan 04, 2024</span>
+            <span class="recent-read"><a href="#">Read Article</a></span>
+            <h2 class="recent-title"><a href="#">Judul Dummy 4</a></h2>
+        </div>
+        <span class="recent-author text-center">Posted By: Admin</span>
+        <div class="clr"></div>
+    </li>
+    <li class="carousel-item">
+        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
+            <span class="carousel-overlay"></span>
+        </a>
+        <div class="carousel-tag"><a href="#">Kategori 5</a></div>
+        <div class="carousel-content text-center">
+            <span class="recent-date">Jan 05, 2024</span>
+            <span class="recent-read"><a href="#">Read Article</a></span>
+            <h2 class="recent-title"><a href="#">Judul Dummy 5</a></h2>
+        </div>
+        <span class="recent-author text-center">Posted By: Admin</span>
+        <div class="clr"></div>
+    </li>
 </div>
 
-                            </div>
                         </div>
+                    
+                    <div class="owl-controls">
+                        
+                        <div class="owl-dots" style="display: none;"></div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+
+
                 <div class='view-all w-100 text-center'>
                     <a class='thm-btn thm-bg' href="<?= base_url('domain/informasi/?&max-results=6');?>" title=''>
                         Informasi & Lainnya<i class='fal fa-long-arrow-right'></i>
                     </a>
                 </div>
             </div>
+        </div>
         </div>
         <div class='clr'></div>
         <div class='box00 padding-bottom'>
