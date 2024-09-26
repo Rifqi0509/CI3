@@ -728,66 +728,71 @@
             <div class="widget-content">
             <div class="main-carousel owl-carousel owl-theme owl-responsive-1000">
     <li class="carousel-item">
-        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
-            <span class="carousel-overlay"></span>
+        <a class="box-image" href="/spbemalang/informasi/indeks_spbe" style="background:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png') no-repeat center center; background-size: cover;">
+        <span class="carousel-overlay"></span>
         </a>
-        <div class="carousel-tag"><a href="#">Kategori 1</a></div>
+
+        <div class="carousel-tag"><a href="/spbemalang/informasi/indeks_spbe">Indeks SPBE</a></div>
         <div class="carousel-content text-center">
-            <span class="recent-date">Jan 01, 2024</span>
-            <span class="recent-read"><a href="#">Read Article</a></span>
-            <h2 class="recent-title"><a href="#">Judul Dummy 1</a></h2>
+            <span class="recent-date">Januari 27, 2024</span>
+            <span class="recent-read"><a href="/spbemalang/informasi/indeks_spbe">Read Article</a></span>
+            <h2 class="recent-title"><a href="/spbemalang/informasi/indeks_spbe">Indeks SPBE 2023 Pemerintah Kabupaten Malang</a></h2>
         </div>
         <span class="recent-author text-center">Posted By: Admin</span>
         <div class="clr"></div>
     </li>
     <li class="carousel-item">
-        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
-            <span class="carousel-overlay"></span>
-        </a>
-        <div class="carousel-tag"><a href="#">Kategori 2</a></div>
+    <a class="box-image" href="/spbemalang/informasi/smart_spbe" style="background:url('https://blogger.googleusercontent.com/img/a/AVvXsEg3aCP4hilzkySyVvmBshcceOYqzs-PQYOpHQNIUWoJO-ul2YLzajrU7u-q5iSneTMiT2N2S1jV4RPpnI4LzBtQ6bIEUGqBaFNAOfQwCalr5HgNoxFq5G3UCtlIjCgswlNXRycy2jMLlVu_BO4E29ylJkz5REN6QU20Ud7KkaPWvUeOk2wM1Lda4weM43XY=w680') no-repeat center center; background-size: cover;">
+    <span class="carousel-overlay"></span>
+</a>
+
+        <div class="carousel-tag"><a href="/spbemalang/informasi/smart_spbe">Indeks SPBE dan Smart City</a></div>
         <div class="carousel-content text-center">
-            <span class="recent-date">Jan 02, 2024</span>
-            <span class="recent-read"><a href="#">Read Article</a></span>
-            <h2 class="recent-title"><a href="#">Judul Dummy 2</a></h2>
+            <span class="recent-date">Januari 18, 2024</span>
+            <span class="recent-read"><a href="/spbemalang/informasi/smart_spbe">Read Article</a></span>
+            <h2 class="recent-title"><a href="/spbemalang/informasi/smart_spbe">Indeks Smart City dan SPBE Malang Alami Peningkatan Pesat</a></h2>
         </div>
         <span class="recent-author text-center">Posted By: Admin</span>
         <div class="clr"></div>
     </li>
     <li class="carousel-item">
-        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
-            <span class="carousel-overlay"></span>
-        </a>
-        <div class="carousel-tag"><a href="#">Kategori 3</a></div>
+    <a class="box-image" href="/spbemalang/informasi/sosialisasi_spbe" style="background:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCgHjjEABgTX3Unqca_x_FenmPCqafwX3UkSyhKbDtSg4gItC5RW-5dzSmHzVEnS9rRhCuxan0F1PHt3g5JQc2KuwUP9AcV1EOtId1DhwRkPta-d_iSyUDCRPp6jDXKpkpMBhoK78cZPJ9Byj_VEfZoSt9fIfi-pXHjPdcFZnQYMkxDgsga2vE1YdWwGk/w680/MAL_7956.JPG') no-repeat center center; background-size: cover;">
+    <span class="carousel-overlay"></span>
+</a>
+
+        <div class="carousel-tag"><a href="/spbemalang/informasi/sosialisasi_spbe">Manajemen Risiko SPBE</a></div>
         <div class="carousel-content text-center">
-            <span class="recent-date">Jan 03, 2024</span>
-            <span class="recent-read"><a href="#">Read Article</a></span>
-            <h2 class="recent-title"><a href="#">Judul Dummy 3</a></h2>
+            <span class="recent-date">November 25, 2023</span>
+            <span class="recent-read"><a href="/spbemalang/informasi/sosialisasi_spbe">Read Article</a></span>
+            <h2 class="recent-title"><a href="/spbemalang/informasi/sosialisasi_spbe">Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE</a></h2>
         </div>
         <span class="recent-author text-center">Posted By: Admin</span>
         <div class="clr"></div>
     </li>
     <li class="carousel-item">
-        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
-            <span class="carousel-overlay"></span>
-        </a>
-        <div class="carousel-tag"><a href="#">Kategori 4</a></div>
+    <a class="box-image" href="/spbemalang/informasi/aplikasi_spbe" style="background:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoI-IX_u-W8Hkdlok0R-ydBfrq5pq3oguYqbO0RTvUT4hsNY-0yFOta_fH2GQDVVrF8sSCoSHhs6kclRSJb_MGmiL9rj3S-nB3lyeGLHZhN63Oh1TtiHSpqEjCnrhuGa5FcmyzmJKh1pb7NCF9D0oXtgEW8dWx-pv6aVnMdw9vLl-dzHRabWhExVzKV5OY/w680/372103623_213901954712770_2647714261297021375_n.heic') no-repeat center center; background-size: cover;">
+    <span class="carousel-overlay"></span>
+</a>
+
+        <div class="carousel-tag"><a href="/spbemalang/informasi/aplikasi_spbe">Layanan SPBE</a></div>
         <div class="carousel-content text-center">
-            <span class="recent-date">Jan 04, 2024</span>
-            <span class="recent-read"><a href="#">Read Article</a></span>
-            <h2 class="recent-title"><a href="#">Judul Dummy 4</a></h2>
+            <span class="recent-date">September 01, 2023</span>
+            <span class="recent-read"><a href="/spbemalang/informasi/aplikasi_spbe">Read Article</a></span>
+            <h2 class="recent-title"><a href="/spbemalang/informasi/aplikasi_spbe">Aplikasi Malang Pintar Raih Penghargaan</a></h2>
         </div>
         <span class="recent-author text-center">Posted By: Admin</span>
         <div class="clr"></div>
     </li>
     <li class="carousel-item">
-        <a class="box-image" href="#" style="background:url('https://via.placeholder.com/380x250') no-repeat center center; background-size: cover">
-            <span class="carousel-overlay"></span>
-        </a>
-        <div class="carousel-tag"><a href="#">Kategori 5</a></div>
+    <a class="box-image" href="/spbemalang/informasi/seminar_spbe" style="background:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq6Rdlik8ZjhRktytRB5R2Paae9G7M16rbxXOTCywOPcgvK67xsf0j-hdBV60T_yFNPEgbS26fGEjyfsIjUkLRsNWWNAny3A2c4_FGicSrevf9vAxpnwGeRTjTKxYtq17C9SlOqSuWok5uq7qkRM73YsoxJWQmprHLdINAlJQj-DjyOHZvSbioi8VuKwwL/w680/357483852_1543097882886190_6450020503380630934_n.jpg') no-repeat center center; background-size: cover;">
+    <span class="carousel-overlay"></span>
+</a>
+
+        <div class="carousel-tag"><a href="/spbemalang/informasi/sosialisasi_spbe">Peningkatan SDM TIK</a></div>
         <div class="carousel-content text-center">
-            <span class="recent-date">Jan 05, 2024</span>
-            <span class="recent-read"><a href="#">Read Article</a></span>
-            <h2 class="recent-title"><a href="#">Judul Dummy 5</a></h2>
+            <span class="recent-date">November 25, 2023</span>
+            <span class="recent-read"><a href="/spbemalang/informasi/sosialisasi_spbe">Read Article</a></span>
+            <h2 class="recent-title"><a href="/spbemalang/informasi/sosialisasi_spbe">Sosialisasi Arsitektur SPBE, Peta Rencana SPBE dan Manajemen Risiko SPBE</a></h2>
         </div>
         <span class="recent-author text-center">Posted By: Admin</span>
         <div class="clr"></div>
