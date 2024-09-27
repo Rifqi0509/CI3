@@ -44,31 +44,31 @@
                       <div class="accordion-body js-accordion-body">
                         <div class="accordion-body__contents">
                           <ul>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Arsitektur SPBE Pemerintah Daerah</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Peta Rencana SPBE Pemerintah Daerah</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Manajemen Data</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Pembangunan Aplikasi SPBE</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Layanan Pusat Data</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Layanan Jaringan Intra Pemerintah Daerah</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Penggunaan Sistem Penghubung Layanan Pemerintah
                                 Daerah</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Manajemen Keamanan Informasi</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Audit TIK</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Kebijakan Internal Tim Koordinasi SPBE Pemerintah Daerah</a></li>
                           </ul>
                         </div>

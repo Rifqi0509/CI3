@@ -44,26 +44,26 @@
                       <div class="accordion-body js-accordion-body">
                         <div class="accordion-body__contents">
                           <ul>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Risiko SPBE</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Keamanan Informasi</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Data</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Aset TIK</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Kompetensi Sumber Daya Manusia</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Pengetahuan</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Perubahan</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Penerapan Manajemen Layanan SPBE</a></li>
                           </ul>
                         </div>
@@ -75,11 +75,11 @@
                       <div class="accordion-body js-accordion-body">
                         <div class="accordion-body__contents">
                           <ul>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Pelaksanaan Audit Infrastruktur SPBE</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Pelaksanaan Audit Aplikasi SPBE</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Pelaksanaan Audit Keamanan SPBE</a></li>
                           </ul>
                         </div>

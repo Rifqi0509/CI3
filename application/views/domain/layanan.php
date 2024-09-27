@@ -45,25 +45,25 @@
                       <div class="accordion-body js-accordion-body">
                         <div class="accordion-body__contents">
                           <ul>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Perencanaan</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Penganggaran</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Keuangan</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Pengadaan Barang dan Jasa</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Kepegawaian</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Kearsipan Dinamis</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Pengelolaan Barang Milik Negara/Daerah</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Pengawasan Internal Pemerintah</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Akuntabilitas Kinerja Organisasi</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Kinerja Pegawai</a></li>
                           </ul>
                         </div>
@@ -75,22 +75,22 @@
                       <div class="accordion-body js-accordion-body">
                         <div class="accordion-body__contents">
                           <ul>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Pengaduan Pelayanan Publik</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Layanan Data Terbuka</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Layanan Jaringan Dokumentasi dan Informasi Hukum (JDIH)</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Layanan Publik Sektor 1</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Layanan Publik Sektor 2</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Layanan Publik Sektor 3</a></li>
                           </ul>
                         </div>

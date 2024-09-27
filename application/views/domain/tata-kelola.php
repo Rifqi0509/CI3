@@ -52,16 +52,16 @@
                         <div class="accordion-body__contents">
                           <ul>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Arsitektur SPBE Pemerintah Daerah</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Peta Rencana SPBE Pemerintah Daerah</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Rencana dan Anggaran SPBE</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Inovasi Proses Bisnis SPBE</a></li>
                           </ul>
                         </div>
@@ -73,15 +73,15 @@
                       <div class="accordion-body js-accordion-body" style="display: none;">
                         <div class="accordion-body__contents">
                           <ul>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Pembangunan Aplikasi SPBE</a></li>
-                            <li><a href="#"
+                            <li><a href="<?= base_url('#');?>"
                                 target="_blank">Layanan Pusat Data</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Layanan Jaringan Intra Pemerintah Daerah</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Penggunaan Sistem Penghubung Layanan Pemerintah Daerah</a></li>
                           </ul>
                         </div>
@@ -94,10 +94,10 @@
                         <div class="accordion-body__contents">
                           <ul>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Tim Koordinasi SPBE Pemerintah Daerah</a></li>
                             <li><a
-                                href="#"
+                                href="<?= base_url('#');?>"
                                 target="_blank">Kolaborasi Penerapan SPBE</a></li>
                           </ul>
                         </div>
