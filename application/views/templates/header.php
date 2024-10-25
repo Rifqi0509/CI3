@@ -144,19 +144,19 @@
                                                         <a href='#' role='menuitem'>Domain SPBE</a>
                                                     </li>
                                                     <li>
-                                                    <a href="<?= base_url('domain/kebijakanspbe'); ?>" role="menuitem">_Kebijakan SPBE</a>
+                                                    <a href="<?= site_url('kebijakanspbe'); ?>" role="menuitem">_Kebijakan SPBE</a>
                                                     </li>
                                                     <li>
-                                                    <a href="<?= base_url('domain/tata_kelola'); ?>" role="menuitem">_Tata Kelola SPBE</a>
+                                                    <a href="<?= site_url('tatakelola'); ?>" role="menuitem">_Tata Kelola SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('domain/manajemen_spbe'); ?>" role='menuitem'>_Manajemen SPBE</a>
+                                                        <a href="<?= site_url('manajemenspbe'); ?>" role='menuitem'>_Manajemen SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('domain/layanan_spbe'); ?>" role='menuitem'>_Layanan SPBE</a>
+                                                        <a href="<?= site_url('layananspbe'); ?>" role='menuitem'>_Layanan SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('domain/informasi'); ?>" role='menuitem'>Informasi Terbaru</a>
+                                                        <a href="<?= site_url('informasispbe'); ?>" role='menuitem'>Informasi Terbaru</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>Detail</a>
@@ -165,22 +165,22 @@
                                                         <a href='#' role='menuitem'>_SPBE</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('spbe/regulasi_spbe'); ?>" role='menuitem'>__Regulasi</a>
+                                                        <a href="<?= site_url('regulasi_spbe'); ?>" role='menuitem'>__Regulasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('spbe/sop_spbe'); ?>" role='menuitem'>__SOP</a>
+                                                        <a href="<?= site_url('sop_spbe'); ?>" role='menuitem'>__SOP</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('spbe/peta_rencana_spbe'); ?>" role='menuitem'>__Peta Rencana</a>
+                                                        <a href="<?= site_url('peta_rencana_spbe'); ?>" role='menuitem'>__Peta Rencana</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('spbe/indikator_evaluasi_spbe'); ?>" role='menuitem'>__Indikator Evaluasi</a>
+                                                        <a href="<?= site_url('indikator_evaluasi_spbe'); ?>" role='menuitem'>__Indikator Evaluasi</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('spbe/paparan_spbe'); ?>" role='menuitem'>__Paparan</a>
+                                                        <a href="<?= site_url('paparan_spbe'); ?>" role='menuitem'>__Paparan</a>
                                                     </li>
                                                     <li>
-                                                        <a href="<?= base_url('spbe/agenda_spbe'); ?>" role='menuitem'>__Agenda</a>
+                                                        <a href="<?= site_url('agenda_spbe'); ?>" role='menuitem'>__Agenda</a>
                                                     </li>
                                                     <li>
                                                         <a href='#' role='menuitem'>_Aplikasi</a>
@@ -201,7 +201,7 @@
                                                         <a href='https://audit-tools-spbe.brin.go.id/webaudit/' role='menuitem'>__Audit Tools</a>
                                                     </li>
                                                     <li class='get-quote'>
-                                                        <a href="<?= base_url('domain/apaitu_spbe'); ?>">
+                                                        <a href="<?= site_url('apaitu_spbe'); ?>">
                                                             <i class='far fa-comments'></i>
                                                             <span>Apa itu SPBE ?</span>
                                                             <i class='fal fa-long-arrow-right'></i>

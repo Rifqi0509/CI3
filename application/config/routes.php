@@ -53,6 +53,16 @@ $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
+$route['kebijakanspbe'] = 'domain/kebijakanspbe';
+$route['tatakelola'] = 'domain/tata_kelola';
+$route['manajemenspbe'] = 'domain/manajemen_spbe';
+$route['layananspbe'] = 'domain/layanan_spbe';
+$route['informasispbe'] = 'domain/informasi';
+$route['apaitu_spbe'] = 'domain/apaitu_spbe';
 
-
-
+$route['regulasi_spbe'] = 'spbe/regulasi_spbe';
+$route['sop_spbe'] = 'spbe/sop_spbe';
+$route['peta_rencana_spbe'] = 'spbe/peta_rencana_spbe';
+$route['indikator_evaluasi_spbe'] = 'spbe/indikator_evaluasi_spbe';
+$route['paparan_spbe'] = 'spbe/paparan_spbe';
+$route['agenda_spbe'] = 'spbe/agenda_spbe';

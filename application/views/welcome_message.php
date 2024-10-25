@@ -727,19 +727,21 @@
             </div>
             <div class="widget-content">
             <div class="main-carousel owl-carousel owl-theme owl-responsive-1000">
+                <?php foreach ($carousel_items as $item): ?>
     <li class="carousel-item">
-        <a class="box-image" href="/spbemalang/informasi/indeks_spbe" style="background:url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw1Tz-sqjV9A464_IPSVysjbpSsOLgjdjcJ7hK0OUQ9GGPkp1XBIOs6iKHSlW6aNgohx9cZOTmmbMn9pXUxuQ9MNjklQJA62lfbUwGervNrtytk7-47cTWjbmi4rAaEJHRACg0xke0B5azECk9vUwgPYm45SXFdUybDKyq74Y9LdQefoeKkJVm7skRrW_L/w680/1.png') no-repeat center center; background-size: cover;">
-        <span class="carousel-overlay"></span>
+        <a class="box-image" href="<?= site_url($item->link); ?>" style="background:url('<?= $item->image_url; ?>') no-repeat center center; background-size: cover;">
+            <span class="carousel-overlay"></span>
         </a>
-
-        <div class="carousel-tag"><a href="/spbemalang/informasi/indeks_spbe">Indeks SPBE</a></div>
+        
+        <div class="carousel-tag"><a href="<?= site_url($item->link); ?>"><?= ($item->title)?></a></div>
         <div class="carousel-content text-center">
-            <span class="recent-date">Januari 27, 2024</span>
-            <span class="recent-read"><a href="/spbemalang/informasi/indeks_spbe">Read Article</a></span>
-            <h2 class="recent-title"><a href="/spbemalang/informasi/indeks_spbe">Indeks SPBE 2023 Pemerintah Kabupaten Malang</a></h2>
+            <span class="recent-date"><?= date('F d ,y', strtotime($item->date)); ?></span>
+            <span class="recent-read"><a href="<?= site_url($item->link); ?>">Read Article</a></span>
+            <h2 class="recent-title"><a href="<?= site_url($item->link); ?>"><?= ($item->description); ?></a></h2>
         </div>
-        <span class="recent-author text-center">Posted By: Admin</span>
+        <span class="recent-author text-center">Posted By: <?= ($item->author); ?></span>
         <div class="clr"></div>
+        <?php endforeach; ?>
     </li>
     <li class="carousel-item">
     <a class="box-image" href="/spbemalang/informasi/smart_spbe" style="background:url('https://blogger.googleusercontent.com/img/a/AVvXsEg3aCP4hilzkySyVvmBshcceOYqzs-PQYOpHQNIUWoJO-ul2YLzajrU7u-q5iSneTMiT2N2S1jV4RPpnI4LzBtQ6bIEUGqBaFNAOfQwCalr5HgNoxFq5G3UCtlIjCgswlNXRycy2jMLlVu_BO4E29ylJkz5REN6QU20Ud7KkaPWvUeOk2wM1Lda4weM43XY=w680') no-repeat center center; background-size: cover;">

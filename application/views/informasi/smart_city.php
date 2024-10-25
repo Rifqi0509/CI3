@@ -203,7 +203,7 @@
                                 </div>
                             </article>
                             <div class="blog-post-comments">
-                                <script type="text/javascript">
+                                <script type="text/javascript"> 
                                     var disqus_blogger_current_url = "https://spbe.malangkab.go.id/2024/01/indeks-smart-city-dan-spbe-Malang.html";
                                     if (!disqus_blogger_current_url.length) {
                                         disqus_blogger_current_url = "https://spbe.malangkab.go.id/2024/01/indeks-smart-city-dan-spbe-Malang.html";
